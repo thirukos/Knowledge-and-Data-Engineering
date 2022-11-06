@@ -1,0 +1,204 @@
+﻿OBJECTID,X,Y,ID,FACILITY_NAME,FACILITY_TYPE,LOCATION,FACILITY_ID,SHAPE_AREA,SHAPE_LENGTH
+1,322958.0757,244837.6509,,Broomfield,All weather pitches,Malahide,AWP,6467.457275,331.3248438
+2,318042.6578,248410.2957,,Balheary Reservoir,All weather pitches,Swords,AWP,3787.496368,246.2396116
+3,325167.0594,260219.8601,,Town Park,All weather pitches,Skerries,AWP,6436.44397,328.9074859
+4,307985.9571,239849.0755,,Corduff Park,Seven a side,Corduff,A,4584.013702,274.9489659
+5,324084.4521,240096.9231,,Seagrange Park,Basketball Court,Baldoyle,,866.9746399,118.2425518
+6,328473.9534,238777.1242,,Grace O'Malley Park,Basketball Court,Howth,,1031.125854,128.1243791
+7,306628.0998,239861.8814,,Whitestown,Basketball Court,Whitestown,,358.9733887,79.17307625
+8,325355.1066,260239.9397,,Skerries Town Park,Bowling Greens,Skerries,,1520.309326,155.9658255
+9,320352.1829,263090.5338,354,Balbriggan Town Park,Cricket Pitches,Balbriggan,,12876.22501,463.596
+10,310142.1207,238762.132,483,Elm Green,Driving Range,Elm Green,,52398.64127,932.9408318
+11,,,,Broomfiled,GAA Pitches,Malahide,3,9651.04718,411.3782354
+12,321208.9996,250256.9715,,Nexbridge Demesne,GAA Pitches,Donabate,,13008.66113,469.2360179
+13,326284.7681,255916.1198,,St. Catherine's Park,GAA Pitches,Rush,3,7674.131104,377.1890399
+14,322115.6456,244978.9795,,Malahide Demesne,GAA Pitches,Malahide,,12990.20035,469.3097145
+15,322447.752,245869.9075,,Malahide Demesne,GAA Pitches,Malahide,13,10087.52365,411.0544975
+16,322441.4367,245750.1723,,Malahide Demesne,GAA Pitches,Malahide,14,6652.180634,330.0639672
+17,316349.8521,246861.0555,,Swords Manor,GAA Pitches,"Brackenstown, Swords",2,13001.58023,469.1575654
+18,316806.8672,246490.1285,,Ward River Valley,GAA Pitches,Swords,2,9544.325043,402.2236083
+19,316781.9638,246374.2476,,Ward River Valley,GAA Pitches,Swords,1,7662.265808,353.2134192
+20,318235.4254,247793.4367,,Balheary Park,GAA Pitches,Swords,5,13028.58652,469.8598953
+21,318518.8864,247679.1319,,Balheary Park,GAA Pitches,Swords,4,13010.55881,469.3952258
+22,318563.9994,247826.6984,,Balheary Park,GAA Pitches,Swords,3,13021.43515,469.2869244
+23,305907.2049,239817.986,,Hartstown Park,GAA Pitches,Hartstown,6,5861.357452,313.1586849
+24,306013.8862,239676.4084,,Hartstown Park,GAA Pitches,Hartstown,11,5930.335114,315.0980389
+25,305716.4637,239570.0365,,Hartstown Park,GAA Pitches,Hartstown,5,11416.76431,439.4758011
+26,305624.8082,239500.5583,,Hartstown Park,Soccer pitches,Hartstown,9,6537.172089,328.8050004
+27,305000.2599,240719.1969,,Hunters Run/lLittlep,GAA Pitches,"Hunter's run/Littlepace, Clonee",1,11821.09686,453.1324729
+28,325294.605,260158.0596,,Skerries Town Park,GAA Pitches,Skerries,2,9243.583618,399.2226425
+29,324753.0764,260006.5366,,Ballist Pit,GAA Pitches,Skerries,1,6084.735352,337.5035819
+30,306295.6656,236522.7108,,Porterstown Park,GAA Pitches,Porterstown,8,13045.991,469.8059084
+31,306361.8762,236454.3229,,Porterstown Park,GAA Pitches,Porterstown,7,13095.20837,470.6558129
+32,306171.0532,236665.4263,,Porterstown Park,Rugby Pitches,Porterstown,4,9302.951385,403.8979489
+33,307329.4007,240980.0004,,Lady's Well Park,GAA Pitches,Mulhuddart,3,13023.53934,469.5859111
+34,319958.0425,264652.6264,,St. Molaga's Park,GAA Pitches,Balbriggan,2,10431.07147,432.0390966
+35,302163.9627,236179.5604,,St. Catherines,GAA Pitches,Dublin 15,2,13078.49402,470.3746462
+36,,,595,Elm Green,Golf Course,Elm Green,,506758.4245,3861.514673
+37,,,591,Corbalis Golf Course,Golf Course,Donabate,,294888.6696,3982.840305
+38,,,52,Elm Green,Pitch & Putt Course,Elm Green,,23586.9278,639.3688656
+39,,,53,Malahide Demesne,Pitch & Putt Course,Malahide,,110901.0498,1503.509575
+40,,,,Malahide Demense,Soccer pitches,Malahide,11,9939.032104,425.830709
+41,,,,Seabury,Rugby Pitches,Malahide,1,9921.157166,425.5928161
+42,,,,Porterstown Park,Running Track,Porterstown,,8432.055328,367.656206
+43,,,,Broomfiled,Seven-a-side,Malahide,A,1985.578369,180.7009377
+44,,,,Carrickhill,Seven-a-side,Portmarnock,B,2179.87738,187.7274204
+45,,,,Carrrickhill,Seven-a-side,Portmarnock,A,3994.03833,267.7216638
+46,,,,St. Catherine's Park,Seven-a-side,Rush,A,1873.080414,177.1408504
+47,,,,Ward River Valley,Seven-a-side,Swords,A,2773.97464,212.9749474
+48,,,,Ward  River Valley,Seven-a-side,Swords,B,2777.343048,213.1021841
+49,,,,Balheary Park,Seven-a-side,Swords,C,3791.336304,248.5414276
+50,,,,Balheary Park,Seven-a-side,Swords,B,4130.590759,260.1842809
+51,,,,Balheary Park,Seven-a-side,Swords,A,4139.785156,260.4287349
+52,,,,Balheary Reservoir ,Seven-a-side,Swords,C,1499.526154,159.9678365
+53,,,,Balheary Reservoir,Seven-a-side,Swords,B,1498.493347,159.913613
+54,,,,Balheary Reservoir,Seven-a-side,Swords,A,1503.5401,160.2588119
+55,,,,Hartstown Park,Seven-a-side,Hartstown,,2548.285553,206.16393
+56,,,,Hartstown Park,Seven-a-side,Hartstown ,B,1986.051208,183.736674
+57,,,,Hunter's Run,Soccer pitches,"Hunter's Run/Littlepace, Clonee",2,4092.646851,259.0394056
+58,,,,Hunter's Run,Seven-a-side,"Littlepace, Clonee",A,2633.591675,210.2715538
+59,,,,Porterstown Park,Seven-a-side,Porterstown,A,4153.957275,260.7547089
+60,,,,Porterstown Park,Seven-a-side,Porterstown,B,4138.162903,260.2215782
+61,,,,Coolmine Park,Seven-a-side,Blanchardstown,A,2466.411957,204.2670994
+62,,,,Mountview Park,Seven-a-side,Blanchardstown,A,4099.802979,259.1700974
+63,,,,Lady's Well Park,Seven-a-side,Mulhuddart,A,1788.8367,174.949339
+64,,,,Seagrange Park,Seven-a-side,Baldoyle,A,2977.923035,221.6919338
+65,,,,Bayside School,Seven-a-side,Sutton,,1257.078125,143.1169
+66,,,,Whitestown,Seven-a-side,Whitestown,,378.2415161,81.61793345
+67,,,,Pump Lane,Seven-a-side,Balbriggan,B,2402.150269,197.4117871
+68,,,,Balbriggan Town Park,Soccer pitches,Balbriggan,2,6394.558533,327.8967112
+69,,,,Ball Alley/Remount ,Soccer pitches,Lusk,1,7157.811279,345.5345765
+70,,,,Broomfiled,GAA Pitches,Malahide,1,6410.403198,328.2432732
+71,,,,Newbridge Demesne,Soccer pitches,Donabate,4,6388.364166,327.7930512
+72,,,,Newbridge Demesne,Soccer pitches,Donabate,3,6380.295288,327.6706242
+73,,,,Newbridge Demesne,Soccer pitches,Donabate,2,6381.565338,327.5241726
+74,,,,Newbridge Demesne,Soccer pitches,Donabate,1,6355.921021,327.0119512
+75,,,,Newbridge Demesne,Soccer pitches,Donabate,,4412.853058,277.621291
+76,,,,Newbridge Demesne,Soccer pitches,Donabate,6,6040.913177,316.8892882
+77,,,,Newbridge Demense,Soccer pitches,Donabate,7,6450.605316,329.2303672
+78,,,,Newbridge Demesne,Soccer pitches,Donabate,8,6412.935852,328.3138146
+79,,,,Carrickhill,Soccer pitches,Portmarnock,1,6340.867859,326.5794746
+80,,,,Carrickhill Park,Soccer pitches,Portmarnock,3,6332.940826,326.3972573
+81,,,,Carrickhill,Soccer pitches,Portmarnock,4,6359.061127,326.9812209
+82,,,,Carrickhill,Soccer pitches,Portmarnock,5,6364.96225,327.1740137
+83,,,,St. Catherine's Park,Soccer pitches,Rush,1,6413.243927,327.8997168
+84,,,,St. Catherine's Park,Soccer pitches,Rush,2,6355.047058,327.0460933
+85,,,,Malahide Demesne,Soccer pitches,Malahide,3,6398.838593,328.0644368
+86,,,,Malahide Demesne,Soccer pitches,Malahide,6,6356.095947,326.9944354
+87,,,,Malahide Demesne,Soccer pitches,Malahide,2,6386.287903,327.6506712
+88,,,,Malahide Demesne,Soccer pitches,Malahide,6,6372.716034,327.2173882
+89,,,,Malahide Demesne,Soccer pitches,Malahide,7,6355.709259,326.9603171
+90,,,,Malahide Demesne,Soccer pitches,Malahide,8,6388.406525,327.7130047
+91,,,,Malahide Demesne,Soccer pitches,Malahide,10,6385.827332,327.6392432
+92,,,,Swords Manor,Soccer pitches,"Brackenstown, Swords",1,6410.281067,328.353929
+93,,,,Ward River Valley,Soccer pitches,Swords,5,6406.915039,328.2451566
+94,,,,Ward River Valley,Soccer pitches,Swords,4,6388.177612,327.6951775
+95,,,,Balheary Park,Soccer pitches,Swords,2,6373.297211,327.2008973
+96,,,,Balheary Park,Soccer pitches,Swords,1,6393.894196,327.8430741
+97,,,,Balheary Reservoir,Soccer pitches,Swords,4,6403.082581,328.0130332
+98,,,,Balheary Reservoir,Soccer pitches,Swords,2,4942.183044,287.9774254
+99,,,,Balheary Reservoir,Soccer pitches,Swords,1,6401.728912,328.0951976
+100,,,,Hartstown Park,Soccer pitches,Hartstown,7,5073.354279,288.7321562
+101,,,,Hartstown Park,Soccer pitches,Hartstown,10,6423.993256,328.3921262
+102,,,,Hartstown Park,Soccer pitches,Hartstown,2,6408.805634,328.0201723
+103,,,,Hartstown Park,Soccer pitches,Hartstown,1,6393.40274,327.7520501
+104,,,,Hartstown Park,Soccer pitches,Hartstown,8,7966.279083,368.6259967
+105,,,,Mourne View,Soccer pitches,Skerries,2,6384.249695,327.5552953
+106,,,,Mourne View,Soccer pitches,Skerries,1,6448.831299,328.9619626
+107,,,,Town Park,Soccer pitches,Balbriggan,3,5815.62561,309.8105398
+108,,,,Town Park,Soccer pitches,Skerries,4,5487.183655,304.228227
+109,,,,Porterstown Park,Soccer pitches,Porterstown,1,6012.213379,315.0755982
+110,,,,Porterstown Park,Soccer pitches,Porterstown,2,4502.368561,279.4302928
+111,,,,Porterstown Park,Soccer pitches,Porterstown,10,6432.930237,328.6577624
+112,,,,Porterstown Park,Soccer pitches,Porterstown,11,6390.295227,327.8211288
+113,,,,Coolmine Park,Soccer pitches,Blanchardstown,2,5739.964966,308.2315631
+114,,,,Coolmine Park,Soccer pitches,Blanchardstown,1,5750.315552,308.3646653
+115,,,,Mountview Park,Soccer pitches,Blanchardstown,1,6405.947205,328.1317856
+116,,,,Corduff Park,Soccer pitches,Corduff,1,6393.915192,327.8047615
+117,,,,Corduff Park,Soccer pitches,Corduff,2,6412.218353,328.110549
+118,,,,Parlickstown,Soccer pitches,Mullhuddart,5,6329.740692,325.8436677
+119,,,,Parklickstown,Soccer pitches,Mulhuddart,2,6554.652466,332.9391581
+120,,,,Parklickstown,Soccer pitches,Mulhuddart,1,7090.668884,350.3809445
+121,,,,Parslickstown,Soccer pitches,Mulhuddart,6,7125.599091,351.0601026
+122,,,,Lady's Well Park,Soccer pitches,Mulhuddart,2,6385.700073,327.589374
+123,,,,Lady's Well Park,Soccer pitches,Mulhuddart,1,6367.618774,327.177753
+124,,,,Danny's Pitches,Soccer pitches,"Ladyswell, Mulhuddart",1,6412.390625,328.0092038
+125,,,,Grace O'Malley Park,Soccer pitches,Howth,1,2900.803955,221.6324307
+126,,,,Corballis Road,Soccer pitches,Donabate,1,6379.805603,327.4543208
+127,,,,Laurel Lodge,Soccer pitches,Castleknock,1,6340.860199,326.5598064
+128,,,,St. Mologa's Park,Soccer pitches,Balbriggan,3,6351.504272,327.2935752
+129,,,,Craoibhinn Park,Soccer pitches,Balbriggan,1,3999.314087,263.7059623
+130,,,,Balrothery Park,GAA Pitches,Balrothery ,1,5645.716553,307.5288697
+131,,,,St. Catherines,Soccer pitches,Dublin 15,5,6323.61908,325.484731
+132,324035.197,239623.7943,1170,Seagrange Park,Tennis Courts,Baldoyle,,6318.500458,320.7478177
+133,321800.7469,253950.9376,,Orlynn Park,Tennis Courts,Lusk,,1219.69693,139.8333099
+134,323710.8128,244207.275,1187,Carrickhill,Tennis Courts,Portmarnock,,685.7105713,111.2357026
+135,323714.2262,244181.9087,1187,Carrickhill,Tennis Courts,Portmarnock,,1225.385162,140.312276
+136,323718.2441,244156.6546,1187,Carrickhill,Tennis Courts,Portmarnock,,698.1658936,113.1074839
+137,323720.5352,244139.2547,1187,Carrickhill,Tennis Courts,Portmarnock,,642.3273621,109.9787912
+138,323722.861,244122.6365,1187,Carrickhill,Tennis Courts,Portmarnock,,636.6499634,109.6002962
+139,322136.4612,245848.4682,,Malahide Demesne,Tennis Courts,Malahide,,4226.594727,284.1475124
+140,325231.0413,260250.4064,,Skerries Town Park,Tennis Courts,Skerries,,2645.360413,219.5796897
+141,319657.9393,260817.3429,,Balrothery Park,Tennis Courts,Balrothery,,1681.099335,168.7091745
+142,307347.4608,237596.7682,,Cherry Park,Tennis Courts,Castleknock,,1025.030731,128.0814511
+143,327652.8811,239455.6827,,Baltray Park,Tennis Courts,Howth,,1930.990021,177.6053913
+144,308299.5146,237244.9405,,Collage GateN,Tennis Courts,Castleknock,,332.777832,77.47568215
+145,306495.6581,237403.3114,,Riverwood,Tennis Courts,Carpenterstown,,1116.868317,133.913672
+146,,,,Porterstown Park,Soccer pitches,Porterstown,3,6384.377747,327.6040877
+147,,,,Balheary  Reservoir,Soccer pitches,Swords,3,6411.024597,328.1828572
+148,323789.0229,244215.8565,,Carrickhill,GAA Pitches,Portmarnock,2,10032.93533,427.0923796
+149,323232.7546,244806.6322,,Broomfiled,GAA Pitches,Malahide,2,7504.401184,351.8667129
+150,,,,Holywell Park,Soccer pitches,Swords,1,5990.999603,331.9601877
+151,,,,Holywell Park,GAA Pitches,Swords,2,8247.282471,389.4972823
+152,305926.4312,240921.949,,Parlickstown,Soccer pitches,Mullhuddart,3,6485.944,327.2179392
+153,,,,Parlickstown,Soccer pitches,Mullhuddart,4,6383.430786,325.7152926
+154,,,,Hazelbury Park,GAA Pitches,Castaheany,1,7820.986542,364.2723688
+155,,,,Balbriggan Town Park,All weather pitches,Balbriggan,AWP,1870.43689,179.2886618
+156,,,,Tyrellstown,Soccer pitches,Tyrellstown,2,5592.153259,319.127398
+157,,,,Tyrellstown,GAA Pitches,Tyrellstown,1,2311.026733,197.1000004
+158,,,,Danny's Pitches,Soccer pitches,"Ladyswell, Mulhuddart",2,6392.792542,327.4473516
+159,316691.0523,246412.2609,,Ward River Valley,All weather pitches,Swords,,2198.186829,195.0619276
+160,,,,Hartstown Park,Soccer pitches,Hartstown,3,979.8413391,151.6554559
+161,,,,Beechpark,Soccer pitches,Clonsilla,2,6591.8125,337.0946065
+162,,,,Beechpark,GAA Pitches,Clonsilla,1,12660.33908,486.9434527
+163,,,,St. Catherine's Park,Soccer pitches,Dublin 15,6,15018.22223,499.2229881
+164,,,,St. Catherine's Park,Soccer pitches,Dublin 15,9,14116.07904,480.6051121
+165,,,,St. Catherine's Park,GAA Pitches,Dublin 15,8,31046.99631,735.0302791
+166,,,,St. Catherine's Park,Soccer pitches,Dublin 15,7,14906.69043,493.3487371
+167,,,,Balbriggan Town Park,Soccer pitches,Balbriggan,2,7080.469727,344.513
+168,,,,Swords Manor,Soccer pitches,Swords,,10127.27866,419.0923469
+169,,,,Swords Manor,Seven-a-side,Swords,,3232.910553,232.3220693
+170,302048.1138,236180.2991,,St. Catherines,GAA Pitches,Dublin 15,1,13020.10019,469.3788462
+171,,,,St. Catherines,Soccer pitches,Dublin 15,4,6321.463287,325.4606887
+172,,,,Robswall,Soccer pitches,Malahide,1,8609.174957,380.9767484
+173,,,,Robswall,Soccer pitches,Malahide,2,9427.002594,397.1165542
+174,322292.7812,245899.217,356,Malahide Demesne,Cricket Pitches,Malahide,,18596.8746,551.2777635
+175,,,,Baldoyle Racecourse ,GAA Pitches,Baldoyle   Howth Malahide,,12949.25168,462.7272537
+176,,,,Baldoyle Racecourse,Soccer Pitches,Baldoyle   Howth Malahide,,6666.995667,332.2523362
+177,,,,Baldoyle Racecourse,Soccer Pitches,Baldoyle   Howth Malahide,,6109.347961,320.2658175
+178,,,,Baldoyle Racecourse,Soccer Pitches,Baldoyle   Howth Malahide ,,6312.325867,324.5334184
+179,,,,Baldoyle Racecourse,Rugby,Baldoyle   Howth Malahide,,9640.86087,403.7004689
+180,,,,Carrickhill,Soccer pitches,Portmarnock,6,6393.324249,327.7817042
+181,,,,Rivermeade,Seven-a-side,Rivermeade   Balbriggan Swords,,3882.316315,267.9585428
+182,,,,Rathingle Road,Soccer,Swords  Balbriggan Swords,,3759.965118,273.6739871
+183,,,,Rathingle Road,Soccer,Swords  Balbriggan Swords,,4332.97287,291.9625584
+184,,,,Carpenterstown Park,,Castleknock Castleknock Mulhuddart,,5830.517181,320.8651119
+185,,,,Latchford,Soccer pitches,Clonee Castleknock Mulhuddart,,6123.96579,325.6659099
+186,,,,Latchford,Soccer pitches,Clonee Castleknock Mulhuddart,,5997.993164,316.9499202
+187,,,,Dun Emer,Soccer pitch,Lusk Balbriggan Swords,,3871.764801,266.340032
+188,,,,Lanesborough,Soccer & GAA nursery,Southern fringe Balbriggan Swords,,5160.68457,297.8988
+189,,,,Waterside,Soccer Pitches,Swords,,7131.442719,349.1443519
+190,,,,Ridgewood,Soccer Pitches,Swords,,5581.240326,308.2124267
+191,,,,Ridgewood,Soccer Pitches,Swords,,4572.338837,288.7176283
+192,,,,Ridgewood, GAA Junior,Swords,,4901.208435,302.8979554
+193,,,,Ridgewood,GAA Junior,Swords,,4680.605804,288.9190111
+194,,,,Ridgewood,GAA,Swords,,11027.28986,433.1773294
+195,,,,Kelly's Bay,GAA Ppitch,Skerries   Balbriggan,,3621.210999,246.0568067
+196,,,,Kinsealy,Seven a side,Kinsealy   Howth Malahide,,2106.543732,186.3743257
+197,319880.0958,264779.0264,,St. Mologa's Park,Rugby Pitches,Balbriggan,1,5039.047913,295.6274067
+198,319880.0958,264779.0264,,St. Mologa's Park,Rugby Pitches,Balbriggan,1,5039.047852,295.6274067
+199,,,,St. Mologa's Park,Seven-a-side,Balbriggan,B,2186.452454,190.6333071
+200,,,,St. Mologa's Park,Seven-a-side,Balbriggan,B,1688.679443,167.5148317
+201,,,,St. Mologa's Park,Seven-a-side,Balbriggan,B,1764.266785,171.426511
+202,319866.3171,264598.1131,,St. Mologa's Park,All weather pitches,Balbriggan,AWP,9274.672729,385.9667778
+203,,,,St. Mologa's Park,Soccer pitches,Balbriggan,4,5630.956238,313.193156
