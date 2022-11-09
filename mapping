@@ -1,0 +1,256 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix fcc: <http://www.example.org/ont#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo2: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+@prefix ex: <http://data.example.org/>
+
+<#fccRecreationalFacilities>
+    a rr:TriplesMap;
+    rr:logicalTable [ rr:tableName "Recreation_Facilities_Audit_2021_FCC"];
+	rr:subjectMap [
+		rr:template "http://data.example.org/FCC/{FACILITY_NAME}" ;
+		rr:class geo:Feature ;
+		rr:class fcc:RecreationFacilities ;
+	] ;
+	rr:predicateObjectMap [
+		rr:predicate rdfs:label ;
+		rr:objectMap [
+			rr:column "FACILITY_NAME" ; rr:language "en" ;
+		] ; 
+		rr:objectMap [
+			rr:column "FACILITY_NAME" ;
+		] ; 
+	] ;
+	rr:predicateObjectMap [
+		rr:predicate geo:hasGeometry;
+		rr:objectMap	[
+			rr:template "http://data.example.org/FCC/{FACILITY_NAME}/{LATITUDE}_{LONGITUDE}";
+			rr:class geo:Geometry;
+			rr:termType rr:IRI;
+		];
+	];
+	rr:predicateObjectMap [
+	rr:predicate ex:hasAreaName;
+	rr:objectMap [ 
+		rr:column "AREA";
+		# rr:termType rr:Literal;
+		rr:class geo:Feature;
+		rr:termType rr:IRI;
+		];		
+	];
+    rr:predicateObjectMap [
+    rr:predicate ex:hasActivityType;
+    rr:objectMap [
+        rr:column "ACTIVITY_TYPE";
+        rr:termType rr:Literal;
+    ];
+    ];
+    rr:predicateObjectMap[
+    rr:predicate ex:hasSportType;
+    rr:objectMap [
+        rr:column "ANALYSIS";
+        rr:termType rr:Literal;
+    ];
+    ];
+    rr:predicateObjectMap[
+    rr:predicate ex:ActivityDescription;
+    rr:objectMap [
+        rr:column "ACTIVITY_DESCRIPTION";
+        rr:termType rr:Literal;
+    ];
+    ];
+    rr:predicateObjectMap[
+    rr:predicate ex:chain;
+    rr:objectMap [
+        rr:column "CHAIN";
+        rr:termType rr:Literal;
+    ];
+    ];
+    rr:predicateObjectMap[
+    rr:predicate ex:hasAccessType;
+    rr:objectMap [
+        rr:column "ACCESS";
+        rr:termType rr:Literal;
+    ];
+    ];
+    rr:predicateObjectMap[
+    rr:predicate ex:mailto;
+    rr:objectMap [
+        rr:column "EMAIL";
+        rr:termType rr:Literal;
+    ];
+    ];
+	rr:predicateObjectMap [
+    rr:predicate rdfs:seeAlso ;
+    rr:predicate fcc:withWebsite ;
+    rr:objectMap [
+        rr:column "WEBSITE" ;
+        rr:termType rr:IRI ;
+    ] ; 
+	] ;
+	rr:predicateObjectMap [
+    rr:predicate rdfs:seeAlso ;
+    rr:predicate fcc:withContactNumber ;
+    rr:objectMap [
+        rr:column "CONTACT_NUMBER" ;
+        rr:termType rr:Literal ;
+    ] ; 
+	] ;
+    .
+
+<#fccGreenSchool>
+    a rr:TriplesMap;
+    rr:logicalTable [ rr:tableName "Green_Schools_Data_FCC"];
+	rr:subjectMap [
+		rr:template "http://data.example.org/FCC/{NAME_OF_SCHOOL}" ;
+		rr:class geo:Feature ;
+		rr:class fcc:GreenSchool ;
+    ];
+	rr:predicateObjectMap [
+		rr:predicate rdfs:label ;
+		rr:objectMap [
+			rr:column "NAME_OF_SCHOOL" ; rr:language "en" ;
+		] ; 
+		rr:objectMap [
+			rr:column "NAME_OF_SCHOOL" ;
+		] ; 
+	] ;
+	rr:predicateObjectMap [
+	rr:predicate ex:hasAreaName;
+	rr:objectMap [ 
+		# rr:column "LOCATION";
+		# rr:termType rr:Literal;
+		# rr:class geo:Feature;
+		# rr:termType rr:IRI;
+        rr:parentTriplesMap <#fccRecreationalFacilities> ;
+	    rr:joinCondition [ rr:child "LOCATION" ; rr:parent "AREA" ]
+		];		
+	];
+    .
+<#fccBikeStand>
+    a rr:TriplesMap;
+    rr:logicalTable [ rr:tableName "Bike_Stands_2020_2021_2022_FCC"];
+	rr:subjectMap [
+		rr:template "http://data.example.org/FCC/{LOCATION}" ;
+		rr:class geo:Feature ;
+		rr:class fcc:BikeStandLocation ;
+    ];
+	rr:predicateObjectMap [
+	rr:predicate ex:hasAreaName;
+	rr:objectMap [ 
+		# rr:column "LOCATION";
+		# rr:termType rr:Literal;
+		# rr:class geo:Feature;
+		# rr:termType rr:IRI;
+        rr:parentTriplesMap <#fccGreenSchool> ;
+	    rr:joinCondition [ rr:child "AREA" ; rr:parent "AREA" ]
+		];		
+	];
+	rr:predicateObjectMap [
+		rr:predicate geo:hasGeometry;
+		rr:objectMap	[
+			rr:template "http://data.example.org/FCC/{LOCATION}/{LATITUDE}_{LONGITUDE}";
+			rr:class geo:Geometry;
+			rr:termType rr:IRI;
+		];
+	];
+	rr:predicateObjectMap [
+		rr:predicate ex:Public;
+		rr:objectMap  [ 
+			rr:column "PUBLIC";
+			rr:termType rr:Literal;
+			rr:datatype xsd:int;
+		];	
+	];
+	rr:predicateObjectMap [
+	rr:predicate ex:StandType;
+	rr:objectMap [ 
+		rr:column "STAND_TYPE";
+		rr:termType rr:Literal;
+		];		
+	];
+	rr:predicateObjectMap [
+		rr:predicate ex:Eastings;
+		rr:objectMap  [ 
+			rr:column "EASTINGS";
+			rr:termType rr:Literal;
+			rr:datatype xsd:float;
+		];	
+	];
+    .
+
+<#fccAccessibleParking>
+    a rr:TriplesMap;
+    rr:logicalTable [ rr:tableName "Accessible_Parking_Pay_FCC"];
+	rr:subjectMap [
+		rr:template "http://data.example.org/FCC/{AREA}" ;
+		rr:class geo:Feature ;
+		rr:class fcc:AccessibleParking ;
+    ];
+	rr:predicateObjectMap [
+		rr:predicate geo:hasGeometry;
+		rr:objectMap	[
+			rr:template "http://data.example.org/FCC/{AREA}/{LATITUDE}_{LONGITUDE}";
+			rr:class geo:Geometry;
+			rr:termType rr:IRI;
+		];
+	];    
+	rr:predicateObjectMap [
+		rr:predicate ex:NoOfBays;
+		rr:objectMap  [ 
+			rr:column "TOTAL_NUMBER_OF_BAYS";
+			rr:termType rr:Literal;
+			rr:datatype xsd:int;
+		];	
+	];
+	rr:predicateObjectMap [
+	rr:predicate ex:hasAreaName;
+	rr:objectMap [ 
+		# rr:column "LOCATION";
+		# rr:termType rr:Literal;
+		# rr:class geo:Feature;
+		# rr:termType rr:IRI;
+        rr:parentTriplesMap <#fccGreenSchool> ;
+	    rr:joinCondition [ rr:child "AREA" ; rr:parent "AREA" ]
+		];		
+	];
+    .
+
+<#fccPlayingPitch>
+    a rr:TriplesMap;
+    rr:logicalTable [ rr:tableName "Playing_Pitches_FCC"];
+	rr:subjectMap [
+		rr:template "http://data.example.org/FCC/{FACILITY_NAME}" ;
+		rr:class geo:Feature ;
+		rr:class fcc:PlayingPitch ;
+    ];
+	rr:predicateObjectMap [
+	rr:predicate ex:hasAreaName;
+	rr:objectMap [ 
+		# rr:column "LOCATION";
+		# rr:termType rr:Literal;
+		# rr:class geo:Feature;
+		# rr:termType rr:IRI;
+        rr:parentTriplesMap <#fccGreenSchool> ;
+	    rr:joinCondition [ rr:child "LOCATION" ; rr:parent "AREA" ]
+		];		
+	];
+	rr:predicateObjectMap [
+	rr:predicate ex:FacilityType;
+	rr:objectMap [ 
+		rr:column "FACILITY_TYPE";
+		rr:termType rr:Literal;
+		];		
+	];
+	rr:predicateObjectMap [
+		rr:predicate ex:ShapeArea;
+		rr:objectMap  [ 
+			rr:column "SHAPE_AREA";
+			rr:termType rr:Literal;
+			rr:datatype xsd:float;
+		];	
+	];
+    .
