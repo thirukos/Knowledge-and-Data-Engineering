@@ -1,0 +1,899 @@
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Skerries%20Sailing%20Club>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Balbriggan%20-%20Quay%20Street%20Public%20Toilets>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Tyrrelstown%20Plaza>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Baldoyle%20Village%20-%20The%20White%20House>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Swords%20-%20Main%20Street%20-%20Summer%20Inn>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Swords%20-%20Main%20Street%20-%20Pure%20Pharmacy>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Donabate%20-%20Main%20Street%20-%20junction%20Donabate%20Village>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Curries%20-%20Blanchardstown>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Brackenstown%20Hockey%20Pitch>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Quay%20Street%20Car%20Park%201>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Church%20of%20St.%20Peter%20and%20Paul>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Bridgefield%20Carpark>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Huntstown%20Way%20%28Bus%20Stop%201865%29>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Bus%20stop%20at%20Gowan%20Motors%20on%20the%20N3>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Onger%20Playground>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Ongar" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Shenick%20Road%2C%20Skerries%20>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Lidl%2C%20Balbriggan%20>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Corduff%20Sports%20Centre>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Strand%20Street%20Gerrys%20Fresh%20Foods>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Skerries%20-%20North%20Strand%20-Red%20Island>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Malahide%20Train%20Station>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Ardgillan%20Castle>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Skerries%20-%20Strand%20Street>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Sutton%20%28Existing%20Private%20Property%29>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Dunnes%20-%20Rathbeale%20Road>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Offices%20adjacent%20to%20Ebay>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Lusk%20-%20Lusk%20Sports%20Hub>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Blanchardstown%20-%20Retail%20Park>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Ongar%20Village>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Ongar" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Robwalls%20Playground>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Portmarnock%20Train%20Station%20%20%28Existing%20Bike%20Parking%20Private%20Property%29>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Ongar%20Distributor%2F%20Allendale%20Square>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Ongar" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Malahide%20-%20Main%20Street>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Strand%20St%2C%20Church%20St>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Westend%20-%20Blanchardstown%20Shopping%20Centre%201>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Skerries%20South%20Strand>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Lidl%20-Swords%20Village>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Bayside%20Train%20Station>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Portrane%20-%20Burrow%20Road>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Skerries%20-South%20Strand%2C%20Adjacent%20Cafe%20Jacques>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Howth%20-%20Burrow%20Beach>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Portraine%20Beach>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Skerries%20Red%20Island>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Anna%20Livia%20Statue>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Charlestown%20Shopping%20Centre%202>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Riverwood%20Square>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Portmarnock%20%28Beach%20Access%29>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" , "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Skerries%20-%20North%20Strand>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Balscadden>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Donabate%20-%20Main%20Street%20-%20St%20Patricks%20Church>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Starnd%20Rd%2C%20Portmarnock%2C%20St%20Marnocks>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Swords%20Village%20off%20roundabout>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Ashtown%20Train%20Station>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Lidl%20-%20Clonsilla>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Iceland%20-%20Mountview%20shoppings%203>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Rush%20%2F%20Lusk%20Station>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Ben%20Dunnes>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Hartstown%20Park>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Baldoyle%20Park>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Swords%20-%20Main%20Street%20-%20Taylors%20Pub>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Portmarnock%20-%20Strand%20Road>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Skerries%20Hockey%20Club>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Sutton%20Sailing%20Club>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Huntstown%20Way>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Lidl%20-%20Rathbeale%20Road>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Martello%20Tre>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Balbriggan%20Train%20Station>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Blanchardstown%20Library>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Entrance%20Burrow%20Beach>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Malahide%20Demesne%20Carpark%20-%20Dublin%20Road>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Baldoyle%20%28Existing%20Bike%20Parking%20Reserved%29>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Bridge%2C%20Church%20Road>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Blanchardstown%20Shopping%20Centre%20-%20Curries>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Howth%20-%20Insomnia%20Coffee>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Carpenter%20Pub>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Summit%20Car%20Park>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Porterstown%20Park%20Car%20Park>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Church%20of%20the%20sacred%20heart%20of%20Jesus>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Tyrellstown%20Playground>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Kettle%20Park>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Blanchardstown%20Shopping%20Centre%20-%20Westend>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Clonsilla%20Road%20%28at%20station%29>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Millfield%20Shopping%20Centre%201>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Roselawn%20Shopping%20Centre>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Beechpark>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Lidl%20-%20Blakestown>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Howth%20Train%20Station>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Swords%20-%20Main%20Street%20-%20Hidden%20Hearing>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Balbriggan%20-%20Ardgillian%20Castle>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Howth%20-%20Summit%20Inn%20Pub>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Swords%20-%20Main%20Street%20-%20Colourtrend>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Millennium%20Park>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/James%20Terrace>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Newbridge%20Demesne>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/FCC%20Grove%20Rd>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Swords%20-%20Main%20Street%20-%20Albany%20House%20Retail>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Supervalue>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Swords%20%28Existing%20Bike%20Parking%20Location%20Private%20Property%29>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Bath%20Road%20Carpark>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Corduff%20Primary%20Care%20Centre>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Howth%20-%20Balscadden%20Road>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Crown%20Plaza%20-%20Blanchardstown>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/College%20Rd%2F%20Castleknock>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Ardgillan%20Castle%20-%20Skerries%20Road>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Iceland%20-%20Mountview%20shoppings%201>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Blanchardstown%20Shopping%20Centre>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Donabate%20Railway%20Station>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Skerries%20-%20Mills%20Playground>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Phoenix%20Park%20Way>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Donabate%2C%20Portrane>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Castleknock%20-%20%20De%20Brurns%20Carpark>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Westend%20-%20Blanchardstown%20Shopping%20Centre%202>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Balrothery%20Inn>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Rush%2C%20Echlin%20Court%20%28SuperValu%20seating%20area%29>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Balbriggan%20-%20Church%20of%20The%20Assumption>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Santry%20-%20Northward>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Lidl%20-%20Blanchardstown%20Shopping%20Centre>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Baldoyle%20Village%20%20-%20library>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Howth%20Station%201>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Millfield%20Shopping%20Centre>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Charlestown%20Shopping%20Centre%203>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Portmarnock%20-%20Jus%20de%20Vine>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Fingal%20County%20Council%20Offices%201>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Blanchardstown%20Shopping%20Centre%20-%20Westend%20Lidl>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/South%20Beach%20Car%20Park>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Phoenix%20Park%20Gates%20at%20Castlekno>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Swords%20FCC%20Offices>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Mountview%20Shopping%20Centre>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Ongar%20Train%20Station>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Ongar" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Balbriggan%20-%20Bandstand%20playground>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Upper%20Main%20Street>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Dunnes%20Wendell%20Road>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Civic%20offices%20-%20Snugborough%20Rd>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Swords%20Village%201>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Rush%20Harbour>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/St%20Patricks%20Church>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Balrothery%20-%20Glebe%20Park%20-%20Playground>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Skerries%20-%20Harbour>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Howth%20-%20Train%20station>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Newbridge%20House%20–%20Playground>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Starnd%20Rd%2C%20Portmarnock>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Lidl%20-%20Tyrrelstown>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/The%20Green%20Malahide>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Howth%20Main%20Street>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Millennium%20Park%201>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Millfield%20Shopping%20Centre%202>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Swords%20-%20Garda%20Station>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Skerries%20Train%20Station>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Clonsilla%20Road%20%28near%20station%29>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Carpenterstown%20-%20Riverwood%20Playground%20%26%20Tennis%20Courts>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Loughshinny%20Harbour%2FBeach>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Fingal%20County%20Council%20Offices%20%202>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Ballymun%20-%20Decathlon>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/New%20Street>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Charlestown%20Shopping%20Centre%201>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Sutton%20Cross>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/AIB%20-%20Blanchardstown%20Shopping%20Centre>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Portmarnock%20-%20Lidl>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Airside%20Shopping%20Centre>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Ebay>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Balrothery%20-%20Glebe%20Park%20-%20Soccer%20Pitches>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Balbriggan%20City%20Hall>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Coolmine%20Train%20Station>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Bus%20stop%20on%20Castleknock%20Road%20%40%20Laurel%20Lodge>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Sutton%20Train%20Station%20%28Existing%20Bike%20Parking%20Location%20Private%20Property%29>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Iceland%20-%20Mountview%20shoppings%202>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Malahide%20Beach>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Tesco%20-%20Whitestown%20Road>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk-Rush" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Lidl%20-%20Castleknock>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Castle%20Mill%20Shopping%20Centre>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Westend%20Village>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Playground%20-%20Baldoyle%20Racecourse%20Park>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/St.%20Catherines%20Park>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Castleknock%20Community%20Centre>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Howth%20-%20Summit%20Carpark>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Blanchardstown%20Shopping%20Centre%20%28Yellow%29>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Howth%20Station%202>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Skerries%20-%20Mills%20skate%20Park>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Balbriggan%20-%20Skatepark>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/Swords%20-%20Main%20Street%20-%20Dental>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BikeStand> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" .
