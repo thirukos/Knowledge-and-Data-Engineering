@@ -3,6 +3,10 @@
 ## Student information query system for entertainment/study places in Fingal County Council
 *Motivation:* Help students aware of the recreational activities in FCC and help them with time management
 
+Ontology Part:
+1. Write the ontology UML
+2. Use protégé to write the ontology into owl file
+
 Uplifting Part:
 1. prepare the csv dataset file
 2. create the xx_mapping.ttl file base on the dataset
