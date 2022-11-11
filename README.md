@@ -11,10 +11,7 @@ Uplifting Part:
 
 Sparql queries:
 Question 1:
-PREFIX owl: <http://www.w3.org/2002/07/owl#>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX ns0: <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
 SELECT ?x ?name
 WHERE {
 	?a a ns0:RecreationFacilities.
