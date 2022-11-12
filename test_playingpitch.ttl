@@ -1,0 +1,1824 @@
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/106pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Skerries" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Mourne View" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/138pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Tennis Courts" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Portmarnock" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Carrickhill" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/12pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Donabate" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Nexbridge Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/81pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Portmarnock" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Carrickhill" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/44pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Portmarnock" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Carrickhill" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/200pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Mologa's Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/107pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Town Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/139pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Tennis Courts" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Malahide Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/13pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Rush" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Catherine's Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/82pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Portmarnock" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Carrickhill" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/45pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Portmarnock" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Carrrickhill" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/201pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Mologa's Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/108pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Skerries" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Town Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/14pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Malahide Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/83pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Rush" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Catherine's Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/46pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Rush" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Catherine's Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/202pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "All weather pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Mologa's Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/109pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Porterstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Porterstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/15pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Malahide Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/84pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Rush" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Catherine's Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/47pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Ward River Valley" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/203pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Mologa's Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/16pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Malahide Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/85pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Malahide Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/48pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Ward  River Valley" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/180pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Portmarnock" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Carrickhill" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/17pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Brackenstown, Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Swords Manor" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/86pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Malahide Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/49pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balheary Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/181pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Rivermeade   Balbriggan Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Rivermeade" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/18pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Ward River Valley" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/87pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Malahide Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/150pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Holywell Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/182pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords  Balbriggan Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Rathingle Road" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/19pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Ward River Valley" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/88pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Malahide Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/151pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Holywell Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/183pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords  Balbriggan Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Rathingle Road" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/89pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Malahide Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/120pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Mulhuddart" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Parklickstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/152pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Mullhuddart" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Parlickstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/184pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock Castleknock Mulhuddart" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Carpenterstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/121pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Mulhuddart" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Parslickstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/153pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Mullhuddart" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Parlickstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/185pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Clonee Castleknock Mulhuddart" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Latchford" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/122pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Mulhuddart" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Lady's Well Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/154pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castaheany" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Hazelbury Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/186pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Clonee Castleknock Mulhuddart" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Latchford" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/123pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Mulhuddart" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Lady's Well Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/155pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "All weather pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balbriggan Town Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/187pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitch" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk Balbriggan Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Dun Emer" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/124pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Ladyswell, Mulhuddart" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Danny's Pitches" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/156pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Tyrellstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Tyrellstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/188pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer & GAA nursery" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Southern fringe Balbriggan Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Lanesborough" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/30pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Porterstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Porterstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/125pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Grace O'Malley Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/157pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Tyrellstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Tyrellstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/189pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Waterside" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/31pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Porterstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Porterstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/1pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "All weather pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Broomfield" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/126pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Donabate" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Corballis Road" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/158pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Ladyswell, Mulhuddart" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Danny's Pitches" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/32pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Rugby Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Porterstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Porterstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/2pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "All weather pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balheary Reservoir" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/127pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Laurel Lodge" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/159pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "All weather pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Ward River Valley" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/70pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Broomfiled" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/33pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Mulhuddart" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Lady's Well Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/3pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "All weather pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Skerries" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Town Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/128pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Mologa's Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/71pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Donabate" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Newbridge Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/34pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Molaga's Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/4pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven a side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Corduff" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Corduff Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/129pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Craoibhinn Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/72pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Donabate" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Newbridge Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/35pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Dublin 15" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Catherines" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/5pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Basketball Court" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Baldoyle" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Seagrange Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/73pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Donabate" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Newbridge Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/36pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Golf Course" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Elm Green" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Elm Green" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/6pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Basketball Court" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Grace O'Malley Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/74pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Donabate" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Newbridge Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/37pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Golf Course" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Donabate" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Corbalis Golf Course" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/7pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Basketball Court" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Whitestown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Whitestown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/75pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Donabate" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Newbridge Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/38pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Pitch & Putt Course" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Elm Green" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Elm Green" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/170pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Dublin 15" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Catherines" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/8pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Bowling Greens" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Skerries" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Skerries Town Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/76pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Donabate" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Newbridge Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/39pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Pitch & Putt Course" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Malahide Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/171pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Dublin 15" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Catherines" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/9pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Cricket Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balbriggan Town Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/77pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Donabate" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Newbridge Demense" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/140pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Tennis Courts" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Skerries" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Skerries Town Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/172pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Robswall" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/78pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Donabate" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Newbridge Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/141pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Tennis Courts" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balrothery" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balrothery Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/173pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Robswall" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/79pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Portmarnock" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Carrickhill" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/110pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Porterstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Porterstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/142pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Tennis Courts" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Cherry Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/174pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Cricket Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Malahide Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/111pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Porterstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Porterstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/143pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Tennis Courts" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Howth" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Baltray Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/175pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Baldoyle   Howth Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Baldoyle Racecourse" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/112pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Porterstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Porterstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/144pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Tennis Courts" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Castleknock" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Collage GateN" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/176pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Baldoyle   Howth Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Baldoyle Racecourse" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/50pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balheary Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/113pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Coolmine Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/145pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Tennis Courts" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Carpenterstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Riverwood" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/177pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Baldoyle   Howth Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Baldoyle Racecourse" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/51pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balheary Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/114pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Coolmine Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/146pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Porterstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Porterstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/178pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Baldoyle   Howth Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Baldoyle Racecourse" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/20pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balheary Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/52pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balheary Reservoir" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/115pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Mountview Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/147pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balheary  Reservoir" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/179pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Rugby" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Baldoyle   Howth Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Baldoyle Racecourse" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/21pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balheary Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/90pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Malahide Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/53pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balheary Reservoir" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/116pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Corduff" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Corduff Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/148pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Portmarnock" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Carrickhill" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/22pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balheary Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/91pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Malahide Demesne" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/54pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balheary Reservoir" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/117pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Corduff" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Corduff Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/149pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Broomfiled" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/23pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Hartstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Hartstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/60pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Porterstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Porterstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/92pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Brackenstown, Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Swords Manor" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/55pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Hartstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Hartstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/118pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Mullhuddart" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Parlickstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/24pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Hartstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Hartstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/61pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Coolmine Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/93pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Ward River Valley" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/56pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Hartstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Hartstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/119pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Mulhuddart" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Parklickstown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/25pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Hartstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Hartstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/62pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Blanchardstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Mountview Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/94pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Ward River Valley" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/57pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Hunter's Run/Littlepace, Clonee" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Hunter's Run" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/26pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Hartstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Hartstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/63pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Mulhuddart" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Lady's Well Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/95pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balheary Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/58pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Littlepace, Clonee" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Hunter's Run" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/190pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Ridgewood" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/27pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Hunter's run/Littlepace, Clonee" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Hunters Run/lLittlep" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/64pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Baldoyle" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Seagrange Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/96pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balheary Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/59pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Porterstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Porterstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/191pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Ridgewood" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/97pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balheary Reservoir" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/65pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Sutton" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Bayside School" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/28pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Skerries" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Skerries Town Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/160pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Hartstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Hartstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/192pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Junior" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Ridgewood" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/98pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balheary Reservoir" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/66pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Whitestown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Whitestown" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/29pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Skerries" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Ballist Pit" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/161pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Clonsilla" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Beechpark" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/193pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Junior" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Ridgewood" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/67pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Pump Lane" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/99pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balheary Reservoir" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/130pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balrothery" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balrothery Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/162pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Clonsilla" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Beechpark" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/194pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Ridgewood" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/68pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balbriggan Town Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/131pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Dublin 15" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Catherines" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/163pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Dublin 15" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Catherine's Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/195pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Ppitch" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Skerries   Balbriggan" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Kelly's Bay" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/69pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Ball Alley/Remount" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/100pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Hartstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Hartstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/132pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Tennis Courts" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Baldoyle" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Seagrange Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/164pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Dublin 15" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Catherine's Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/196pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven a side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Kinsealy   Howth Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Kinsealy" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/101pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Hartstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Hartstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/133pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Tennis Courts" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Lusk" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Orlynn Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/165pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Dublin 15" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Catherine's Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/197pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Rugby Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Mologa's Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/102pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Hartstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Hartstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/134pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Tennis Courts" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Portmarnock" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Carrickhill" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/166pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Dublin 15" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Catherine's Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/198pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Rugby Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Mologa's Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/40pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Malahide Demense" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/103pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Hartstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Hartstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/135pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Tennis Courts" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Portmarnock" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Carrickhill" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/167pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Balbriggan Town Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/199pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Balbriggan" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "St. Mologa's Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/41pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Rugby Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Seabury" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/104pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Hartstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Hartstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/136pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Tennis Courts" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Portmarnock" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Carrickhill" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/168pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Swords Manor" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/10pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Driving Range" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Elm Green" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Elm Green" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/42pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Running Track" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Porterstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Porterstown Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/105pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Skerries" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Mourne View" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/137pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Tennis Courts" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Portmarnock" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Carrickhill" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/169pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Swords" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Swords Manor" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/11pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "GAA Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Broomfiled" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/80pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Soccer pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Portmarnock" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Carrickhill Park" .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/43pp>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasActivityType>
+                "Seven-a-side" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
+                "Malahide" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
+                "Broomfiled" .

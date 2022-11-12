@@ -8,43 +8,38 @@
 @prefix ns0: <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/>
 
 
-<#fccBikeStand>
+<#fccPlayingPitch>
     a rr:TriplesMap;
 
-    rr:logicalTable [ rr:tableName "BikeStand"];
+    rr:logicalTable [ rr:tableName "Playing_Pitches_FCC"];
 
     rr:subjectMap [
 		rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
-		rr:class ns0:BikeStand ;
+		rr:class ns0:PlayingPitch ;
     ];
 
 rr:predicateObjectMap [
-  rr:predicate ns0:hasLatitude;
-  rr:objectMap [
-   rr:column "LATITUDE";
-   rr:datatype xsd:double;
-  ];
+ rr:predicate ns0:hasName;
+ rr:objectMap [ 
+  rr:column "FACILITY_NAME";
+  rr:termType rr:Literal;
+  ];  
  ];
 
 rr:predicateObjectMap [
- rr:predicate ns0:hasName;
+ rr:predicate ns0:hasArea;
  rr:objectMap [ 
   rr:column "LOCATION";
   rr:termType rr:Literal;
   ];  
  ];
 
- rr:predicateObjectMap [
-      rr:predicate ns0:hasLongtitude;
-      rr:objectMap [
-          rr:column "LONGITUDE";
-       rr:datatype xsd:double;
-      ];
-     ];
 
-
-   rr:predicateObjectMap [
-	rr:predicate ns0:hasArea;
-	rr:objectMap [ rr:column "AREA" ];
-    ] ;
+rr:predicateObjectMap [
+ rr:predicate ns0:hasActivityType;
+ rr:objectMap [ 
+  rr:column "FACILITY_TYPE";
+  rr:termType rr:Literal;
+  ];  
+ ];
     .

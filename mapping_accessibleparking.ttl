@@ -8,15 +8,16 @@
 @prefix ns0: <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/>
 
 
-<#fccBikeStand>
+<#fccAccessibleParking>
     a rr:TriplesMap;
 
-    rr:logicalTable [ rr:tableName "BikeStand"];
+    rr:logicalTable [ rr:tableName "Accessible_Parking_Pay_FCC"];
 
     rr:subjectMap [
 		rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
-		rr:class ns0:BikeStand ;
+		rr:class ns0:AccessibleParking ;
     ];
+
 
 rr:predicateObjectMap [
   rr:predicate ns0:hasLatitude;
@@ -26,14 +27,6 @@ rr:predicateObjectMap [
   ];
  ];
 
-rr:predicateObjectMap [
- rr:predicate ns0:hasName;
- rr:objectMap [ 
-  rr:column "LOCATION";
-  rr:termType rr:Literal;
-  ];  
- ];
-
  rr:predicateObjectMap [
       rr:predicate ns0:hasLongtitude;
       rr:objectMap [
@@ -41,7 +34,6 @@ rr:predicateObjectMap [
        rr:datatype xsd:double;
       ];
      ];
-
 
    rr:predicateObjectMap [
 	rr:predicate ns0:hasArea;

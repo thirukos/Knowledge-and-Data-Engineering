@@ -8,40 +8,23 @@
 @prefix ns0: <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/>
 
 
-<#fccBikeStand>
+<#fccGreenSchool>
     a rr:TriplesMap;
 
-    rr:logicalTable [ rr:tableName "BikeStand"];
+    rr:logicalTable [ rr:tableName "Green_Schools_Data_FCC"];
 
     rr:subjectMap [
 		rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
-		rr:class ns0:BikeStand ;
+		rr:class ns0:GreenSchool ;
     ];
 
 rr:predicateObjectMap [
-  rr:predicate ns0:hasLatitude;
+  rr:predicate ns0:hasName;
   rr:objectMap [
-   rr:column "LATITUDE";
-   rr:datatype xsd:double;
+   rr:column "NAME_OF_SCHOOL";
+   rr:termType rr:Literal;
   ];
  ];
-
-rr:predicateObjectMap [
- rr:predicate ns0:hasName;
- rr:objectMap [ 
-  rr:column "LOCATION";
-  rr:termType rr:Literal;
-  ];  
- ];
-
- rr:predicateObjectMap [
-      rr:predicate ns0:hasLongtitude;
-      rr:objectMap [
-          rr:column "LONGITUDE";
-       rr:datatype xsd:double;
-      ];
-     ];
-
 
    rr:predicateObjectMap [
 	rr:predicate ns0:hasArea;

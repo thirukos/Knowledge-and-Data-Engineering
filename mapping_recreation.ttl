@@ -12,14 +12,12 @@
     a rr:TriplesMap;
     rr:logicalTable [ rr:tableName "Recreation_Facilities_Audit_2021_FCC"];
  rr:subjectMap [
-  rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{FACILITY_NAME}" ;
+  rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
   rr:class ns0:RecreationFacilities ;
  ] ;
+
  rr:predicateObjectMap [
   rr:predicate ns0:hasName ;
-  rr:objectMap [
-   rr:column "FACILITY_NAME" ; rr:language "en" ;
-  ] ; 
   rr:objectMap [
    rr:column "FACILITY_NAME" ;
   ] ; 
@@ -42,12 +40,38 @@
      ];
 
  rr:predicateObjectMap [
+ rr:predicate ns0:hasFee;
+ rr:objectMap [ 
+  rr:column "FEE";
+  rr:termType rr:Literal;
+  ];  
+ ];
+
+
+ rr:predicateObjectMap [
  rr:predicate ns0:hasArea;
  rr:objectMap [ 
   rr:column "AREA";
   rr:termType rr:Literal;
   ];  
  ];
+
+rr:predicateObjectMap [
+ rr:predicate ns0:hasActivityType;
+ rr:objectMap [ 
+  rr:column "ACTIVITY_TYPE";
+  rr:termType rr:Literal;
+  ];  
+ ];
+
+rr:predicateObjectMap [
+ rr:predicate ns0:hasMembership;
+ rr:objectMap [ 
+  rr:column "ACTIVITY_TYPE";
+  rr:termType rr:Literal;
+  ];  
+ ];
+
 
     rr:predicateObjectMap[
     rr:predicate ns0:hasSportType;
@@ -65,7 +89,7 @@
     ];
 
     rr:predicateObjectMap[
-    rr:predicate ns0:chain;
+    rr:predicate ns0:haschain;
     rr:objectMap [
         rr:column "CHAIN";
         rr:termType rr:Literal;
