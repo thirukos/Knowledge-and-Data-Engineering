@@ -4,8 +4,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix geo2: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-@prefix ex: <http://data.example.org/>.
-@prefix ns0: <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/>.
+@prefix ex: <http://data.example.org/>
+@prefix ns0: <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/>
 
 <#fccBleeperBikes>
     a rr:TriplesMap;

@@ -1,0 +1,4 @@
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/1bb>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/BleeperBikes> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasLongtitude>
+                "-6.43989"^^<http://www.w3.org/2001/XMLSchema#double> .
