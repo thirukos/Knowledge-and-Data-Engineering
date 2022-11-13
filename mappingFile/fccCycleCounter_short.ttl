@@ -1,0 +1,35 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix fcc: <http://www.example.org/ont#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo2: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ex: <http://data.example.org/>.
+@prefix ns0: <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/>.
+
+<#fccCycleCounter>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "Cycle_Counter"];
+
+    rr:subjectMap [
+    rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+    rr:class ns0:CycleCounter ;
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate ns0:hasTime;
+    rr:objectMap [ 
+    rr:column "TIME";
+    rr:datatype xsd:integer;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate ns0:hasCastleknock;
+    rr:objectMap [ 
+    rr:column "CASTLEKNOCK_TOTEM";
+    rr:datatype xsd:integer;
+    ];  
+    ];
+    .

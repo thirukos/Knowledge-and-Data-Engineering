@@ -1,0 +1,43 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix fcc: <http://www.example.org/ont#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo2: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ex: <http://data.example.org/>.
+@prefix ns0: <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/>.
+
+<#fccBleeperBikes>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "Bleeper_Bikes_Parking_Map_FCC"];
+
+    rr:subjectMap [
+    rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+    rr:class ns0:BleeperBikes ;
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate ns0:hasName;
+    rr:objectMap [ 
+    rr:column "LOCATION";
+    rr:termType rr:Literal;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate ns0:hasLatitude;
+    rr:objectMap [
+    rr:column "LATITUDE";
+    rr:datatype xsd:double;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate ns0:hasLongtitude;
+    rr:objectMap [
+    rr:column "LONGITUDE";
+    rr:datatype xsd:double;
+    ];
+    ];
+    .
