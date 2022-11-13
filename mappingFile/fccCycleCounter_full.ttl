@@ -10,7 +10,7 @@
 <#fccCycleCounter>
     a rr:TriplesMap;
 
-    rr:logicalTable [ rr:tableName "Cycle_Counter"];
+    rr:logicalTable [ rr:tableName "CycleCounter"];
 
     rr:subjectMap [
     rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;

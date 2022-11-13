@@ -1,0 +1,263 @@
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/10cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                1159 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                24780 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                5374 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                9 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/17cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                1285 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                27157 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                5760 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                16 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/5cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                25 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                179 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                1077 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                4 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/24cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                259 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                1058 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                1164 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                23 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/16cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                1389 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                29486 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                4563 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                15 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/4cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                26 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                93 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                545 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                3 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/23cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                325 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                2525 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                1711 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                22 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/15cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                1442 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                28699 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                4433 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                14 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/3cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                21 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                197 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                218 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                2 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/22cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                524 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                6129 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                2192 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                21 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/14cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                1403 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                33156 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                4472 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                13 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/2cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                49 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                242 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                353 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                1 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/9cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                1475 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                23301 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                6620 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                8 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/21cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                841 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                12760 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                2788 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                20 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/13cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                1215 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                3675 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                4079 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                12 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/1cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                125 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                444 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                621 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                0 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/8cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                1442 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                14169 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                7664 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                7 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/20cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                973 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                20388 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                3724 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                19 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/12cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                1177 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                35312 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                4167 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                11 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/19cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                1270 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                25731 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                6516 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                18 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/7cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                1200 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                5133 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                5654 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                6 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/11cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                1173 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                31771 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                4343 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                10 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/18cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                1333 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                26257 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                6428 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                17 .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/6cc>
+        a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/CycleCounter> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCastleknock>
+                257 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasCoastRoad>
+                894 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasMortonStadium>
+                2720 ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasTime>
+                5 .
