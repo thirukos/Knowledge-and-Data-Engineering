@@ -27,6 +27,21 @@ rr:predicateObjectMap [
  ];
 
 rr:predicateObjectMap [
+ rr:predicate ns0:hasShapeArea;
+ rr:objectMap [ 
+  rr:column "SHAPE_AREA";
+ rr:datatype xsd:double;
+  ];  
+ ];
+rr:predicateObjectMap [
+ rr:predicate ns0:hasShapeLength;
+ rr:objectMap [ 
+  rr:column "SHAPE_LENGTH";
+ rr:datatype xsd:double;
+  ];  
+ ];
+
+rr:predicateObjectMap [
  rr:predicate ns0:hasArea;
  rr:objectMap [ 
   rr:column "LOCATION";

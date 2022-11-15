@@ -1,0 +1,91 @@
+ID,Name,Address1,Address2,Address3,Address4,Phone,Email,Class,Opening_Hours,Playground,Multi_Use_Games_Area,Skatepark,Outdoor_Exercise_Equipment,GAA,Soccer,Rugby,Cricket,Tennis,Bowls,Boules,Pitch_and_Putt,Walking,Cycling,Heritage_Venue,Other_Attractions,Cafe,Picnic_Tables,Park_Benches,Parking,Disabled_Parking,Bicycle_Parking,Toilets,Disabled_Toilets,Baby_Changing,OBJECTID
+1ppp,Ardgillan Demesne,Balbriggan,Co. Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,Regional,,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Ardgillan Castle & Gardens,"Historical Parkland & Demesne. Castle Tours, Victorian Walled Garden (herbs, vegetables and Herbaceous Borders), Rose Garden, National Potentilla Collection, Victorian Conservatory; Extensive Wildflower Meadows & Woodland Walking Trails. Large Childrens Playground. Panoramic Coastal Views",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0
+2ppp,Balheary Park,Balheary Road,Swords,Co. Dublin,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,,No,No,No,No,No,No,No,No,No,1
+3ppp,Tir na Nog Park,Carpenterstown,Dublin 15,Dublin 15,,+353 1 8905000,CasMulOpArea@fingal.ie,N/hood,,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,,No,No,Yes,No,No,No,No,No,No,2
+4ppp,Carrickhill Park,Portmarnock,Co. Dublin,,,+353 1 8905000,HowMalOpArea@fingal.ie,N/hood,,Yes,No,No,No,,,,No,Yes,No,No,No,,No,No,,No,,,Yes,Yes,,No,No,No,3
+5ppp,Cave's Marsh & Millview,Malahide,Co. Dublin,,,+353 1 8905000,HowMalOpArea@fingal.ie,Nature,,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,,No,No,No,No,No,No,No,No,No,4
+6ppp,Malahide Demesne,Malahide,Co. Dublin,,,+353 1 8905000,HowMalOpArea@fingal.ie,Regional,,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Malahide Castle & Gardens,"Historical Parkland & Demesne. Medieval Castle Tours, 'Talbot Botanic Gardens', Walled Gardens, Plants Cololections, Butterfly House, International Cricket, Tennis, Golf. Large Childrens Playground and Outdoor Concert Venue.",Yes,Yes,Yes,Yes,Yes,,Yes,Yes,Yes,5
+7ppp,Millennium Park,Blanchardstown,Dublin 15,,,+353 1 8905000,CasMulOpArea@fingal.ie,Regional,,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,St Mochtas Church & graveyard (in ruins) ,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6
+8ppp,Newbridge Demense,Hearse Road,Donabate,Co. Dublin,,+353 1 8905000,BalSwoOpArea@fingal.ie,Regional,,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Newbridge House; Newbridge Traditional Farm,"Historical Parkland & Demesne. Irelands Only Intact Georgian Mansion with both Farm and Historical Parkland Tours. Extensive Wildflower Meadows, Woodland and Walking Trails. Walled Gardens. Glasshouses (under refurbishment) Large Playgound, Sports Pitches and Active Age Area including Croquet, Boules and Yoga.",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7
+9ppp,Porterstown Park,Luttrellstown Road,Porterstown,Dublin 15,,+353 1 8905000,CasMulOpArea@fingal.ie,N/hood,,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Running Track,No,No,Yes,Yes,Yes,Yes,No,No,No,8
+10ppp,Santry Demense,Swords Road,Santry,Dublin 9,,+353 1 8905000,BalSwoOpArea@fingal.ie,Regional,,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,Remains of Santry Demesne,"Historical Parkland Demesne, Mature Woodland, Pond; Walled Garden, Community Garden",No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9
+11ppp,Seagrange Park,Grange Road,Baldoyle,Dublin 13,,+353 1 8905000,HowMalOpArea@fingal.ie,N/hood,,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,,No,,,No,No,No,No,No,No,10
+12ppp,Skerries Town Park & Skerries Mills,Skerries,Co. Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Skerries Mills,Duck Pond,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,11
+13ppp,St. Catherine's Estate & 'Portico' Open Space,Rush,Co. Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,Local,,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Kenure House 'Portico' and Heritage Lookout  Tower,Remnants of Kenure House Entrance,No,No,No,Yes,No,Yes,No,No,No,12
+14ppp,St. Catherines  Park Liffey Valley,Co. Dublin,Dublin 15,,,+353 1 8905000,CasMulOpArea@fingal.ie,Regional,,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Large and small BMX Track / built heritage / Wildlife (Flora and Fauna) / Woodlands / Market events,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,13
+15ppp,Bremore Regional Park,Balbriggan,Co. Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,Regional,,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Bremore Castle,Large Regional Park under Development,No,No,No,Yes,No,Yes,No,No,No,14
+16ppp,Swords Town Park,Swords,Co. Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Swords Castle,Swords Castle and Event Space,No,Yes,Yes,No,No,No,No,No,No,15
+17ppp,Tolka Valley Park,Blanchardstown,Dublin 15,,,+353 1 8905000,CasMulOpArea@fingal.ie,Regional,,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,,No,No,Yes,No,No,No,No,No,No,16
+18ppp,The Glebe Park,Balrothery,Co. Dubliin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,,No,Yes,Yes,Yes,No,Yes,No,No,No,17
+19ppp,Turvey Nature Reserve,Turvey Road,Donabate,Co. Dublin,,+353 1 8905000,BalSwoOpArea@fingal.ie,Nature,,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Wildlife; Allotments,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,18
+20ppp,The Ward River Valley Park,Swords,Co. Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,Regional,,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Elements of Architectural Features from Brackenstown House & Knocksedan Estate,"River Valley Walk with Woodland Ravine, River, Wetland, Sports Pitches",No,No,Yes,No,No,Yes,No,No,No,19
+21ppp,Red Island & South Strand,Skerries,Co. Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,Local,,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Sea Swimming,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,20
+22ppp,Robswalls,Malahide,Co. Dublin,,,+353 1 8905000,HowMalOpArea@fingal.ie,N/Hood,,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,,No,No,,Yes,Yes,No,No,No,No,21
+23ppp,The Sea Banks,Malahide,Co. Dublin,,,+353 1 8905000,HowMalOpArea@fingal.ie,Local,,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Swimming,No,No,No,Yes,Yes,No,Yes,No,No,22
+24ppp,Kingfisher Site Nature Reserve,Portmarnock,Co. Dublin,,,+353 1 8905000,HowMalOpArea@fingal.ie,Nature,,No,No,No,No,No,No,No,No,No,No,No,No,,No,No,,No,No,No,No,No,No,No,No,No,23
+25ppp,Howth Seafront,Howth,Dublin 13,,,+353 1 8905000,HowMalOpArea@fingal.ie,Local,,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,,No,No,,Yes,,,Yes,No,No,24
+26ppp,Sea Banks,Balbriggan,Co. Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,Local,,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Swimming,No,No,,Yes,Yes,,Yes,No,No,25
+27ppp,Broadmeadow Estuary,Malahide,Co. Dublin,,,+353 1 8905000,HowMalOpArea@fingal.ie,Local,,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Wildlife,No,No,Yes,Yes,No,No,No,No,No,26
+28ppp,Old Yellow Walls Rd,Malahide,Co. Dublin,,,+353 1 8905000,HowMalOpArea@fingal.ie,N/Hood,,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,,No,No,No,No,No,No,No,No,No,27
+29ppp,Balbriggan Town Park,Balbriggan,Co. Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/Hood,,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,,No,No,No,No,No,No,No,No,No,28
+30ppp,Balheary Reservoir,Swords,Co. Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No,No,Yes,No,No,No,No,No,29
+31ppp,Ballast Pit,Skerries,Co. Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,,No,No,No,No,No,No,No,No,No,30
+32ppp,Ballheary - Castlefarm,Swords,Co. Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,,No,No,No,No,No,No,No,No,No,31
+33ppp,Beverton Drive,Donabate,Co. Dublin,,,+353 1 8905000,HowMalOpArea@fingal.ie,N/hood,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,No,No,No,No,No,No,No,No,No,32
+34ppp,Broomfield,Malahide,Co. Dublin,,,+353 1 8905000,HowMalOpArea@fingal.ie,N/hood,,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,,No,No,No,Yes,Yes,No,No,No,No,33
+35ppp,Corduff Park,Corduff,Blanchardstown,Dublin 15,,+353 1 8905000,CasMulOpArea@fingal.ie,N/hood,,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,Ringfort (circular earthen platform) / Corduff Sports Centre (Toilets facilities),No,No,No,Yes,Yes,Yes,No,No,No,34
+36ppp,Danny's Pitch,Blanchardstown,Dublin 15,,,+353 1 8905000,CasMulOpArea@fingal.ie,N/hood,,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No,No,No,No,No,No,No,No,35
+37ppp,Elmwood Open Space,Brackenstown,Swords,Co. Dublin,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,No,No,No,No,No,No,No,No,No,36
+38ppp,Hartstown Park,Hartstown,Dublin 15,,,+353 1 8905000,CasMulOpArea@fingal.ie,N/hood,,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Park run,No,No,Yes,Yes,Yes,Yes,No,No,No,37
+39ppp,Hazelbury Park,Castaheaney,Dublin 15,,,+353 1 8905000,CasMulOpArea@fingal.ie,N/hood,,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,,No,No,Yes,No,No,No,No,No,No,38
+40ppp,Holywell Park,Swords,Co. Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,,No,No,No,No,No,No,No,No,No,39
+41ppp,Lady's Well Park,Ladyswell,Mulhuddart,Dublin 15,,+353 1 8905000,CasMulOpArea@fingal.ie,N/hood,,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,,No,No,Yes,No,No,No,No,No,No,40
+42ppp,Lanesborough Park,Lanesborough,Dublin 11,,,+353 1 8905000,CasMulOpArea@fingal.ie,N/hood,,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,,No,No,No,No,No,No,No,No,No,41
+43ppp,Mourne Park,Skerries,Co. Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No,No,No,No,No,No,No,No,42
+44ppp,Rivermeade,St. Margarets,Co. Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,,No,No,No,No,No,No,No,No,No,43
+45ppp,Orlynn Park,Lusk,Co. Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,,No,No,No,No,No,No,No,No,No,44
+46ppp,Seabury Gardens,Malahide,Co. Dublin,,,+353 1 8905000,HowMalOpArea@fingal.ie,N/hood,,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,,No,No,No,No,No,No,No,No,No,45
+47ppp,Parklands,Castleknock,Dublin 15,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,,No,No,No,No,No,No,No,No,No,46
+48ppp,Rathingle Park,Swords,Co. Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,,No,No,No,No,No,No,No,No,No,47
+49ppp,Barnwell Square playground,Hansfield,Dublin 15 ,Dublin 15,,+353 1 8905000,CasMulOpArea@fingal.ie,Local (PG),,Yes,N/A,N/A ,N/A ,N/A ,N/A ,N/A ,N/A ,N/A ,N/A ,N/A ,N/A ,N/A ,N/A ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,48
+50ppp,Beechpark,Clonsilla,Dublin 15,Dublin 15,,+353 1 8905000,CasMulOpArea@fingal.ie,N/hood,,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Shackelton's Gardens / Park run,No,No,Yes,Yes,Yes,No,No,No,No,49
+51ppp,Fortlawn playground,Fortlawn Community Centre,Fortlawn ,Dublin 15,,+353 1 8905000,CasMulOpArea@fingal.ie,Local (PG),,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Community centre facilites,,,,,,,,,,50
+52ppp,Mulhudart Community Center Playground,Mulhuddart,Dublin 15,Dublin 15,,+353 1 8905000,CasMulOpArea@fingal.ie,Local (PG),,Yes,,,,,,,,,,,,,,,,,,,,,,,,,51
+53ppp,Ongar open space,Ongar,Dublin 15,Dublin 15,,+353 1 8905000,CasMulOpArea@fingal.ie,N/hood,,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,,No,No,Yes,No,No,No,No,No,No,52
+54ppp,Park Boulevard Playground,Tyrrellstown,Dublin 15,Dublin 15,,+353 1 8905000,CasMulOpArea@fingal.ie,N/hood,,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,,,,,,,,53
+55ppp,Parnell Estate Playground,Mulhuddart,Dublin 15,Dublin 15,,+353 1 8905000,CasMulOpArea@fingal.ie,Local (PG),,Yes,N/A to all the rest >,,,,,,,,,,,,,,,,,,,,,,,,54
+56ppp,Riverwood Chase Playground,Carpenterstown,Dublin 15,Dublin 15,,+353 1 8905000,CasMulOpArea@fingal.ie,N/hood,,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,,No,No,Yes,No,No,Yes,No,No,No,55
+57ppp,Sutton Strand,Sutton,,,,+353 1 8905000,HowMalOpArea@fingal.ie,,,,,,Yes,,,,,,,,,,,,,,,,,,,,,,56
+58ppp,Tyrrelstown Park,Tyrrellstown,Dublin 15,Dublin 15,,+353 1 8905000,CasMulOpArea@fingal.ie,N/hood,,Yes,Yes,No,Yes ,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Community centre facilites / Wildlife / Pond ,No,No,Yes,Yes,Yes,Yes,No,No,No,57
+59ppp,Waterville Park,Waterville,Dublin 15,Dublin 15,,+353 1 8905000,CasMulOpArea@fingal.ie,N/hood,,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Wildlife / Pond ,No,No,No,No,No,No,No ,No ,No,58
+60ppp,Whitestown Park MUGA,Whitestown,Dublin 15,Dublin 15,,+353 1 8905000,CasMulOpArea@fingal.ie,N/hood,,No,Yes,N/A to all the rest >,,,,,,,,,,,,,,,,,,,,,,,59
+61ppp,Bayside Park,Bayside,Howth,,,+353 1 8905000,HowMalOpArea@fingal.ie,N/hood,,Yes,,,Yes,,,,,,,,,,,,,,,,,,,,,,60
+62ppp,Grace Omalley,,Howth,,,+353 1 8905000,HowMalOpArea@fingal.ie,,,,,,,,,,,,,,,,,,,,,,,,,,,,61
+63ppp,Howth Harbour/Promenade,,Howth,,,+353 1 8905000,HowMalOpArea@fingal.ie,,,No,,,Yes,,,,,,,,,,,,,,,,,,,,,,62
+64ppp,Moyclare,,,,,+353 1 8905000,HowMalOpArea@fingal.ie,N/hood,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,63
+65ppp,Portmarnock (PSLC),,,,,+353 1 8905000,HowMalOpArea@fingal.ie,N/hood,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,64
+66ppp,Baldoyle Race Course Park,,Baldoyle,Dublin 13,,+353 1 8905000,HowMalOpArea@fingal.ie,,,,,,,,,,,,,,,,,,,,,,,,,,,,65
+67ppp,Saint Anne's Portmarnock,Portmarnock,Co Dublin,,,+353 1 8905000,HowMalOpArea@fingal.ie,N/hood,,Yes,,,Yes,,,,,,,,,,,,,,,,,,,,,,66
+68ppp,Waterside,,,,,+353 1 8905000,HowMalOpArea@fingal.ie,N/Hood,,Yes,,,Yes,,,,,,,,,,,,,,,,,,,,,,67
+69ppp,Kettels Lane,Drynam Place,,,,+353 1 8905000,HowMalOpArea@fingal.ie,N/hood,,No,,,yes,,,,,,,,,,,,,,,,,,,,,,68
+70ppp,Cooper's Wood,,,,,+353 1 8905000,HowMalOpArea@fingal.ie,N/hood,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,69
+71ppp,Sutton Strand/Creek,Sutton,,,,+353 1 8905000,HowMalOpArea@fingal.ie,N/hood,,,,,Yes,,,,,,,,,,,,,,,,,,,,,,70
+72ppp,Millpond Park,Balbriggan,,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,No,No,Yes,No,No,No,No, No,No,No,No,No,No,No ,River Park,,No,Yes,Yes,Yes,Yes,Yes,No,No,No,71
+73ppp,Barnageeragh - Skerries,Skerries,,,,+353 1 8905000,BalSwoOpArea@fingal.ie,,,Yes,No,No,No,No,No,No,,,,,,,,,,,,,,,,,,,72
+74ppp,Bath Road,Balbriggan,,,,+353 1 8905000,BalSwoOpArea@fingal.ie,,,No,NO,No,No,No,No,No,No,No,No,No,No,Yes,No,,Residential Open Space,No,No,No,No,No,No,No,No,No,73
+75ppp,Bremore Pastures,Balbriggan,,,,+353 1 8905000,BalSwoOpArea@fingal.ie,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,Residential Open Space,No,No,No,No,No,No,No,No,No,74
+76ppp,Dun Emer,Lusk,,,,+353 1 8905000,BalSwoOpArea@fingal.ie,,,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,,Residential Open Space,No,No,No,No,No,No,No,No,No,75
+77ppp,Dun Saithne - Balbriggan,Balbriggan,Co Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,Local,,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Residential Open Space,,No,No,No,No,No,No,No,No,No,76
+78ppp,Harbour Park ,Rush,Co Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,yes,No,No,No,No,No,No,No,No,No,No,No,yes,No,Harbour Open Space,,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,77
+79ppp,Lusk Sports Hub,Rathmore Rd Lusk,Co Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,Yes,No,No,Yes,Yes,Soccer,No,No,No,No,No,No,Yes,No,No,,No,No,Yes,Yes,Yes,Yes,No,No,No,78
+80ppp,Moylargh - Balbriggan,Balbriggan,Co Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,Local,,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Residential Open Space,No,No,No,No,No,No,No,No,No,79
+81ppp,Kenure Woods - Rush,Rush,Co Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,Entrance Gates to Kenure House,Woodland Walking Trail/ Junior Park Run/Scout Den,No,No,Yes,No,No,No,No,No,No,80
+82ppp,Quay Street,Balbriggan,Co Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Entrance to Viaduct & Beach,Entrance to Viaduct & Beach,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,81
+83ppp,Ballygossan Park - Skerries,Skerries,Co Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,Local,,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Residential Open Space,No,No,No,No,No,No,No,No,No,82
+84ppp,Boroimhe Cherry,Swords,Co Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,Residential Open Space,No,No,No,No,No,No,No,No,No,83
+85ppp,Boru Court,Swords,Co Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,Residential Open Space,No,No,No,No,No,No,No,No,No,84
+86ppp,Brackenstown Road,Swords,Co Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,N/hood,,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,,,No,No,No,No,No,No,No,No,No,85
+87ppp,Portrane Green,Portrane,Co Dublin,,,+353 1 8905000,BalSwoOpArea@fingal.ie,,,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,,Village Green / Anchor from HMS Tayleur,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,86
+88ppp,Ridgewood Cedar Park,Swords,Swords,,,+353 1 8905000,BalSwoOpArea@fingal.ie,,,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,Residential Open Space,No,No,No,No,No,No,No,No,No,87
+89ppp,Thornleigh & Broadmeadow River Park,Swords,Swords,,,+353 1 8905000,BalSwoOpArea@fingal.ie,,,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,,Community Garden,No,No,No,No,No,No,No,No,No,88
+,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,No,No,No,No,No,No,No,89

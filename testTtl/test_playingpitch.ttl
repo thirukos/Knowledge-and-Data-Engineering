@@ -5,7 +5,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Skerries" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Mourne View" .
+                "Mourne View" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6448.831299"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "328.9619626"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/138pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -14,7 +18,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Portmarnock" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Carrickhill" .
+                "Carrickhill" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "636.6499634"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "109.6002962"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/12pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -23,7 +31,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Donabate" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Nexbridge Demesne" .
+                "Nexbridge Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "13008.66113"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "469.2360179"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/81pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -32,7 +44,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Portmarnock" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Carrickhill" .
+                "Carrickhill" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6359.061127"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "326.9812209"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/44pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -41,7 +57,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Portmarnock" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Carrickhill" .
+                "Carrickhill" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "2179.87738"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "187.7274204"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/200pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -50,7 +70,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Balbriggan" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Mologa's Park" .
+                "St. Mologa's Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1688.679443"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "167.5148317"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/107pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -59,7 +83,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Balbriggan" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Town Park" .
+                "Town Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "5815.62561"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "309.8105398"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/139pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -68,7 +96,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Malahide Demesne" .
+                "Malahide Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "4226.594727"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "284.1475124"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/13pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -77,7 +109,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Rush" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Catherine's Park" .
+                "St. Catherine's Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "7674.131104"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "377.1890399"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/82pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -86,7 +122,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Portmarnock" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Carrickhill" .
+                "Carrickhill" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6364.96225"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.1740137"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/45pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -95,7 +135,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Portmarnock" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Carrrickhill" .
+                "Carrrickhill" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "3994.03833"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "267.7216638"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/201pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -104,7 +148,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Balbriggan" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Mologa's Park" .
+                "St. Mologa's Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1764.266785"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "171.426511"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/108pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -113,7 +161,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Skerries" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Town Park" .
+                "Town Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "5487.183655"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "304.228227"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/14pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -122,7 +174,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Malahide Demesne" .
+                "Malahide Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "12990.20035"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "469.3097145"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/83pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -131,7 +187,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Rush" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Catherine's Park" .
+                "St. Catherine's Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6413.243927"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.8997168"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/46pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -140,7 +200,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Rush" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Catherine's Park" .
+                "St. Catherine's Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1873.080414"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "177.1408504"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/202pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -149,7 +213,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Balbriggan" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Mologa's Park" .
+                "St. Mologa's Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "9274.672729"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "385.9667778"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/109pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -158,7 +226,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Porterstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Porterstown Park" .
+                "Porterstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6012.213379"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "315.0755982"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/15pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -167,7 +239,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Malahide Demesne" .
+                "Malahide Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "10087.52365"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "411.0544975"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/84pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -176,7 +252,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Rush" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Catherine's Park" .
+                "St. Catherine's Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6355.047058"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.0460933"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/47pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -185,7 +265,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Ward River Valley" .
+                "Ward River Valley" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "2773.97464"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "212.9749474"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/203pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -194,7 +278,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Balbriggan" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Mologa's Park" .
+                "St. Mologa's Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "5630.956238"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "313.193156"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/16pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -203,7 +291,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Malahide Demesne" .
+                "Malahide Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6652.180634"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "330.0639672"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/85pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -212,7 +304,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Malahide Demesne" .
+                "Malahide Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6398.838593"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "328.0644368"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/48pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -221,7 +317,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Ward  River Valley" .
+                "Ward  River Valley" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "2777.343048"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "213.1021841"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/180pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -230,7 +330,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Portmarnock" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Carrickhill" .
+                "Carrickhill" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6393.324249"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.7817042"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/17pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -239,7 +343,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Brackenstown, Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Swords Manor" .
+                "Swords Manor" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "13001.58023"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "469.1575654"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/86pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -248,7 +356,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Malahide Demesne" .
+                "Malahide Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6356.095947"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "326.9944354"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/49pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -257,7 +369,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balheary Park" .
+                "Balheary Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "3791.336304"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "248.5414276"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/181pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -266,7 +382,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Rivermeade   Balbriggan Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Rivermeade" .
+                "Rivermeade" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "3882.316315"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "267.9585428"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/18pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -275,7 +395,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Ward River Valley" .
+                "Ward River Valley" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "9544.325043"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "402.2236083"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/87pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -284,7 +408,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Malahide Demesne" .
+                "Malahide Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6386.287903"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.6506712"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/150pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -293,7 +421,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Holywell Park" .
+                "Holywell Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "5990.999603"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "331.9601877"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/182pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -302,7 +434,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords  Balbriggan Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Rathingle Road" .
+                "Rathingle Road" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "3759.965118"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "273.6739871"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/19pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -311,7 +447,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Ward River Valley" .
+                "Ward River Valley" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "7662.265808"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "353.2134192"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/88pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -320,7 +460,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Malahide Demesne" .
+                "Malahide Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6372.716034"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.2173882"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/151pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -329,7 +473,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Holywell Park" .
+                "Holywell Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "8247.282471"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "389.4972823"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/183pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -338,7 +486,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords  Balbriggan Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Rathingle Road" .
+                "Rathingle Road" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "4332.97287"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "291.9625584"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/89pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -347,7 +499,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Malahide Demesne" .
+                "Malahide Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6355.709259"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "326.9603171"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/120pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -356,7 +512,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Mulhuddart" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Parklickstown" .
+                "Parklickstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "7090.668884"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "350.3809445"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/152pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -365,14 +525,22 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Mullhuddart" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Parlickstown" .
+                "Parlickstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6485.944"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.2179392"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/184pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Castleknock Castleknock Mulhuddart" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Carpenterstown Park" .
+                "Carpenterstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "5830.517181"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "320.8651119"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/121pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -381,7 +549,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Mulhuddart" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Parslickstown" .
+                "Parslickstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "7125.599091"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "351.0601026"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/153pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -390,7 +562,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Mullhuddart" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Parlickstown" .
+                "Parlickstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6383.430786"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "325.7152926"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/185pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -399,7 +575,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Clonee Castleknock Mulhuddart" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Latchford" .
+                "Latchford" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6123.96579"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "325.6659099"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/122pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -408,7 +588,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Mulhuddart" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Lady's Well Park" .
+                "Lady's Well Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6385.700073"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.589374"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/154pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -417,7 +601,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Castaheany" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Hazelbury Park" .
+                "Hazelbury Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "7820.986542"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "364.2723688"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/186pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -426,7 +614,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Clonee Castleknock Mulhuddart" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Latchford" .
+                "Latchford" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "5997.993164"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "316.9499202"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/123pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -435,7 +627,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Mulhuddart" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Lady's Well Park" .
+                "Lady's Well Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6367.618774"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.177753"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/155pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -444,7 +640,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Balbriggan" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balbriggan Town Park" .
+                "Balbriggan Town Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1870.43689"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "179.2886618"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/187pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -453,7 +653,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Lusk Balbriggan Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Dun Emer" .
+                "Dun Emer" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "3871.764801"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "266.340032"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/124pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -462,7 +666,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Ladyswell, Mulhuddart" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Danny's Pitches" .
+                "Danny's Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6412.390625"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "328.0092038"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/156pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -471,7 +679,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Tyrellstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Tyrellstown" .
+                "Tyrellstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "5592.153259"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "319.127398"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/188pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -480,7 +692,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Southern fringe Balbriggan Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Lanesborough" .
+                "Lanesborough" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "5160.68457"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "297.8988"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/30pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -489,7 +705,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Porterstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Porterstown Park" .
+                "Porterstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "13045.991"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "469.8059084"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/125pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -498,7 +718,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Howth" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Grace O'Malley Park" .
+                "Grace O'Malley Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "2900.803955"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "221.6324307"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/157pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -507,7 +731,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Tyrellstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Tyrellstown" .
+                "Tyrellstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "2311.026733"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "197.1000004"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/189pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -516,7 +744,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Waterside" .
+                "Waterside" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "7131.442719"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "349.1443519"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/31pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -525,7 +757,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Porterstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Porterstown Park" .
+                "Porterstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "13095.20837"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "470.6558129"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/1pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -534,7 +770,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Broomfield" .
+                "Broomfield" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6467.457275"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "331.3248438"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/126pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -543,7 +783,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Donabate" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Corballis Road" .
+                "Corballis Road" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6379.805603"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.4543208"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/158pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -552,7 +796,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Ladyswell, Mulhuddart" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Danny's Pitches" .
+                "Danny's Pitches" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6392.792542"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.4473516"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/32pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -561,7 +809,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Porterstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Porterstown Park" .
+                "Porterstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "9302.951385"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "403.8979489"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/2pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -570,7 +822,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balheary Reservoir" .
+                "Balheary Reservoir" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "3787.496368"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "246.2396116"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/127pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -579,7 +835,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Castleknock" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Laurel Lodge" .
+                "Laurel Lodge" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6340.860199"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "326.5598064"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/159pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -588,7 +848,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Ward River Valley" .
+                "Ward River Valley" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "2198.186829"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "195.0619276"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/70pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -597,7 +861,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Broomfiled" .
+                "Broomfiled" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6410.403198"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "328.2432732"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/33pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -606,7 +874,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Mulhuddart" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Lady's Well Park" .
+                "Lady's Well Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "13023.53934"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "469.5859111"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/3pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -615,7 +887,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Skerries" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Town Park" .
+                "Town Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6436.44397"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "328.9074859"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/128pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -624,7 +900,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Balbriggan" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Mologa's Park" .
+                "St. Mologa's Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6351.504272"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.2935752"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/71pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -633,7 +913,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Donabate" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Newbridge Demesne" .
+                "Newbridge Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6388.364166"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.7930512"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/34pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -642,7 +926,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Balbriggan" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Molaga's Park" .
+                "St. Molaga's Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "10431.07147"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "432.0390966"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/4pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -651,7 +939,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Corduff" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Corduff Park" .
+                "Corduff Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "4584.013702"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "274.9489659"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/129pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -660,7 +952,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Balbriggan" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Craoibhinn Park" .
+                "Craoibhinn Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "3999.314087"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "263.7059623"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/72pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -669,7 +965,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Donabate" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Newbridge Demesne" .
+                "Newbridge Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6380.295288"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.6706242"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/35pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -678,7 +978,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Dublin 15" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Catherines" .
+                "St. Catherines" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "13078.49402"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "470.3746462"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/5pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -687,7 +991,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Baldoyle" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Seagrange Park" .
+                "Seagrange Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "866.9746399"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "118.2425518"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/73pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -696,7 +1004,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Donabate" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Newbridge Demesne" .
+                "Newbridge Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6381.565338"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.5241726"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/36pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -705,7 +1017,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Elm Green" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Elm Green" .
+                "Elm Green" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "506758.4245"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "3861.514673"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/6pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -714,7 +1030,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Howth" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Grace O'Malley Park" .
+                "Grace O'Malley Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1031.125854"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "128.1243791"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/74pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -723,7 +1043,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Donabate" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Newbridge Demesne" .
+                "Newbridge Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6355.921021"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.0119512"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/37pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -732,7 +1056,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Donabate" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Corbalis Golf Course" .
+                "Corbalis Golf Course" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "294888.6696"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "3982.840305"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/7pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -741,7 +1069,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Whitestown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Whitestown" .
+                "Whitestown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "358.9733887"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "79.17307625"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/75pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -750,7 +1082,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Donabate" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Newbridge Demesne" .
+                "Newbridge Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "4412.853058"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "277.621291"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/38pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -759,7 +1095,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Elm Green" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Elm Green" .
+                "Elm Green" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "23586.9278"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "639.3688656"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/170pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -768,7 +1108,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Dublin 15" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Catherines" .
+                "St. Catherines" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "13020.10019"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "469.3788462"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/8pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -777,7 +1121,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Skerries" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Skerries Town Park" .
+                "Skerries Town Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1520.309326"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "155.9658255"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/76pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -786,7 +1134,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Donabate" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Newbridge Demesne" .
+                "Newbridge Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6040.913177"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "316.8892882"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/39pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -795,7 +1147,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Malahide Demesne" .
+                "Malahide Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "110901.0498"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "1503.509575"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/171pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -804,7 +1160,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Dublin 15" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Catherines" .
+                "St. Catherines" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6321.463287"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "325.4606887"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/9pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -813,7 +1173,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Balbriggan" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balbriggan Town Park" .
+                "Balbriggan Town Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "12876.22501"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "463.596"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/77pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -822,7 +1186,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Donabate" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Newbridge Demense" .
+                "Newbridge Demense" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6450.605316"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "329.2303672"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/140pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -831,7 +1199,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Skerries" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Skerries Town Park" .
+                "Skerries Town Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "2645.360413"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "219.5796897"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/172pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -840,7 +1212,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Robswall" .
+                "Robswall" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "8609.174957"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "380.9767484"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/78pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -849,7 +1225,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Donabate" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Newbridge Demesne" .
+                "Newbridge Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6412.935852"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "328.3138146"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/141pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -858,7 +1238,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Balrothery" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balrothery Park" .
+                "Balrothery Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1681.099335"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "168.7091745"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/173pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -867,7 +1251,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Robswall" .
+                "Robswall" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "9427.002594"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "397.1165542"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/79pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -876,7 +1264,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Portmarnock" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Carrickhill" .
+                "Carrickhill" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6340.867859"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "326.5794746"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/110pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -885,7 +1277,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Porterstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Porterstown Park" .
+                "Porterstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "4502.368561"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "279.4302928"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/142pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -894,7 +1290,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Castleknock" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Cherry Park" .
+                "Cherry Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1025.030731"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "128.0814511"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/174pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -903,7 +1303,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Malahide Demesne" .
+                "Malahide Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "18596.8746"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "551.2777635"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/111pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -912,7 +1316,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Porterstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Porterstown Park" .
+                "Porterstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6432.930237"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "328.6577624"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/143pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -921,7 +1329,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Howth" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Baltray Park" .
+                "Baltray Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1930.990021"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "177.6053913"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/175pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -930,7 +1342,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Baldoyle   Howth Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Baldoyle Racecourse" .
+                "Baldoyle Racecourse" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "12949.25168"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "462.7272537"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/112pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -939,7 +1355,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Porterstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Porterstown Park" .
+                "Porterstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6390.295227"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.8211288"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/144pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -948,7 +1368,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Castleknock" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Collage GateN" .
+                "Collage GateN" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "332.777832"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "77.47568215"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/176pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -957,7 +1381,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Baldoyle   Howth Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Baldoyle Racecourse" .
+                "Baldoyle Racecourse" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6666.995667"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "332.2523362"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/50pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -966,7 +1394,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balheary Park" .
+                "Balheary Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "4130.590759"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "260.1842809"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/113pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -975,7 +1407,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Blanchardstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Coolmine Park" .
+                "Coolmine Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "5739.964966"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "308.2315631"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/145pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -984,7 +1420,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Carpenterstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Riverwood" .
+                "Riverwood" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1116.868317"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "133.913672"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/177pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -993,7 +1433,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Baldoyle   Howth Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Baldoyle Racecourse" .
+                "Baldoyle Racecourse" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6109.347961"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "320.2658175"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/51pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1002,7 +1446,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balheary Park" .
+                "Balheary Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "4139.785156"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "260.4287349"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/114pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1011,7 +1459,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Blanchardstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Coolmine Park" .
+                "Coolmine Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "5750.315552"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "308.3646653"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/146pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1020,7 +1472,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Porterstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Porterstown Park" .
+                "Porterstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6384.377747"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.6040877"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/178pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1029,7 +1485,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Baldoyle   Howth Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Baldoyle Racecourse" .
+                "Baldoyle Racecourse" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6312.325867"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "324.5334184"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/20pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1038,7 +1498,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balheary Park" .
+                "Balheary Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "13028.58652"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "469.8598953"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/52pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1047,7 +1511,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balheary Reservoir" .
+                "Balheary Reservoir" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1499.526154"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "159.9678365"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/115pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1056,7 +1524,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Blanchardstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Mountview Park" .
+                "Mountview Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6405.947205"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "328.1317856"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/147pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1065,7 +1537,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balheary  Reservoir" .
+                "Balheary  Reservoir" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6411.024597"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "328.1828572"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/179pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1074,7 +1550,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Baldoyle   Howth Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Baldoyle Racecourse" .
+                "Baldoyle Racecourse" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "9640.86087"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "403.7004689"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/21pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1083,7 +1563,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balheary Park" .
+                "Balheary Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "13010.55881"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "469.3952258"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/90pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1092,7 +1576,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Malahide Demesne" .
+                "Malahide Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6388.406525"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.7130047"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/53pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1101,7 +1589,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balheary Reservoir" .
+                "Balheary Reservoir" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1498.493347"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "159.913613"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/116pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1110,7 +1602,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Corduff" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Corduff Park" .
+                "Corduff Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6393.915192"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.8047615"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/148pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1119,7 +1615,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Portmarnock" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Carrickhill" .
+                "Carrickhill" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "10032.93533"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "427.0923796"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/22pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1128,7 +1628,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balheary Park" .
+                "Balheary Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "13021.43515"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "469.2869244"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/91pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1137,7 +1641,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Malahide Demesne" .
+                "Malahide Demesne" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6385.827332"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.6392432"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/54pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1146,7 +1654,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balheary Reservoir" .
+                "Balheary Reservoir" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1503.5401"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "160.2588119"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/117pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1155,7 +1667,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Corduff" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Corduff Park" .
+                "Corduff Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6412.218353"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "328.110549"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/149pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1164,7 +1680,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Broomfiled" .
+                "Broomfiled" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "7504.401184"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "351.8667129"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/23pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1173,7 +1693,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Hartstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Hartstown Park" .
+                "Hartstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "5861.357452"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "313.1586849"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/60pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1182,7 +1706,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Porterstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Porterstown Park" .
+                "Porterstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "4138.162903"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "260.2215782"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/92pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1191,7 +1719,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Brackenstown, Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Swords Manor" .
+                "Swords Manor" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6410.281067"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "328.353929"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/55pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1200,7 +1732,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Hartstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Hartstown Park" .
+                "Hartstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "2548.285553"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "206.16393"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/118pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1209,7 +1745,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Mullhuddart" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Parlickstown" .
+                "Parlickstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6329.740692"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "325.8436677"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/24pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1218,7 +1758,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Hartstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Hartstown Park" .
+                "Hartstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "5930.335114"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "315.0980389"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/61pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1227,7 +1771,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Blanchardstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Coolmine Park" .
+                "Coolmine Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "2466.411957"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "204.2670994"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/93pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1236,7 +1784,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Ward River Valley" .
+                "Ward River Valley" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6406.915039"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "328.2451566"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/56pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1245,7 +1797,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Hartstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Hartstown Park" .
+                "Hartstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1986.051208"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "183.736674"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/119pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1254,7 +1810,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Mulhuddart" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Parklickstown" .
+                "Parklickstown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6554.652466"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "332.9391581"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/25pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1263,7 +1823,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Hartstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Hartstown Park" .
+                "Hartstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "11416.76431"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "439.4758011"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/62pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1272,7 +1836,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Blanchardstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Mountview Park" .
+                "Mountview Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "4099.802979"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "259.1700974"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/94pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1281,7 +1849,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Ward River Valley" .
+                "Ward River Valley" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6388.177612"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.6951775"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/57pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1290,7 +1862,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Hunter's Run/Littlepace, Clonee" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Hunter's Run" .
+                "Hunter's Run" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "4092.646851"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "259.0394056"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/26pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1299,7 +1875,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Hartstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Hartstown Park" .
+                "Hartstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6537.172089"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "328.8050004"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/63pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1308,7 +1888,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Mulhuddart" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Lady's Well Park" .
+                "Lady's Well Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1788.8367"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "174.949339"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/95pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1317,7 +1901,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balheary Park" .
+                "Balheary Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6373.297211"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.2008973"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/58pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1326,7 +1914,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Littlepace, Clonee" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Hunter's Run" .
+                "Hunter's Run" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "2633.591675"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "210.2715538"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/190pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1335,7 +1927,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Ridgewood" .
+                "Ridgewood" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "5581.240326"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "308.2124267"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/27pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1344,7 +1940,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Hunter's run/Littlepace, Clonee" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Hunters Run/lLittlep" .
+                "Hunters Run/lLittlep" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "11821.09686"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "453.1324729"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/64pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1353,7 +1953,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Baldoyle" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Seagrange Park" .
+                "Seagrange Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "2977.923035"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "221.6919338"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/96pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1362,7 +1966,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balheary Park" .
+                "Balheary Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6393.894196"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.8430741"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/59pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1371,7 +1979,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Porterstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Porterstown Park" .
+                "Porterstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "4153.957275"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "260.7547089"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/191pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1380,7 +1992,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Ridgewood" .
+                "Ridgewood" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "4572.338837"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "288.7176283"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/97pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1389,7 +2005,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balheary Reservoir" .
+                "Balheary Reservoir" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6403.082581"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "328.0130332"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/65pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1398,7 +2018,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Sutton" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Bayside School" .
+                "Bayside School" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1257.078125"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "143.1169"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/28pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1407,7 +2031,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Skerries" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Skerries Town Park" .
+                "Skerries Town Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "9243.583618"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "399.2226425"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/160pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1416,7 +2044,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Hartstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Hartstown Park" .
+                "Hartstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "979.8413391"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "151.6554559"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/192pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1425,7 +2057,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Ridgewood" .
+                "Ridgewood" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "4901.208435"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "302.8979554"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/98pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1434,7 +2070,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balheary Reservoir" .
+                "Balheary Reservoir" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "4942.183044"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "287.9774254"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/66pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1443,7 +2083,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Whitestown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Whitestown" .
+                "Whitestown" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "378.2415161"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "81.61793345"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/29pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1452,7 +2096,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Skerries" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Ballist Pit" .
+                "Ballist Pit" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6084.735352"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "337.5035819"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/161pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1461,7 +2109,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Clonsilla" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Beechpark" .
+                "Beechpark" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6591.8125"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "337.0946065"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/193pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1470,7 +2122,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Ridgewood" .
+                "Ridgewood" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "4680.605804"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "288.9190111"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/67pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1479,7 +2135,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Balbriggan" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Pump Lane" .
+                "Pump Lane" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "2402.150269"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "197.4117871"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/99pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1488,7 +2148,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balheary Reservoir" .
+                "Balheary Reservoir" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6401.728912"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "328.0951976"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/130pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1497,7 +2161,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Balrothery" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balrothery Park" .
+                "Balrothery Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "5645.716553"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "307.5288697"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/162pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1506,7 +2174,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Clonsilla" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Beechpark" .
+                "Beechpark" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "12660.33908"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "486.9434527"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/194pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1515,7 +2187,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Ridgewood" .
+                "Ridgewood" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "11027.28986"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "433.1773294"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/68pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1524,7 +2200,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Balbriggan" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balbriggan Town Park" .
+                "Balbriggan Town Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6394.558533"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.8967112"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/131pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1533,7 +2213,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Dublin 15" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Catherines" .
+                "St. Catherines" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6323.61908"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "325.484731"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/163pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1542,7 +2226,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Dublin 15" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Catherine's Park" .
+                "St. Catherine's Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "15018.22223"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "499.2229881"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/195pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1551,7 +2239,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Skerries   Balbriggan" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Kelly's Bay" .
+                "Kelly's Bay" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "3621.210999"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "246.0568067"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/69pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1560,7 +2252,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Lusk" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Ball Alley/Remount" .
+                "Ball Alley/Remount" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "7157.811279"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "345.5345765"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/100pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1569,7 +2265,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Hartstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Hartstown Park" .
+                "Hartstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "5073.354279"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "288.7321562"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/132pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1578,7 +2278,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Baldoyle" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Seagrange Park" .
+                "Seagrange Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6318.500458"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "320.7478177"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/164pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1587,7 +2291,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Dublin 15" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Catherine's Park" .
+                "St. Catherine's Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "14116.07904"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "480.6051121"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/196pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1596,7 +2304,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Kinsealy   Howth Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Kinsealy" .
+                "Kinsealy" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "2106.543732"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "186.3743257"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/101pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1605,7 +2317,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Hartstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Hartstown Park" .
+                "Hartstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6423.993256"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "328.3921262"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/133pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1614,7 +2330,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Lusk" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Orlynn Park" .
+                "Orlynn Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1219.69693"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "139.8333099"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/165pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1623,7 +2343,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Dublin 15" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Catherine's Park" .
+                "St. Catherine's Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "31046.99631"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "735.0302791"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/197pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1632,7 +2356,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Balbriggan" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Mologa's Park" .
+                "St. Mologa's Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "5039.047913"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "295.6274067"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/102pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1641,7 +2369,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Hartstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Hartstown Park" .
+                "Hartstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6408.805634"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "328.0201723"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/134pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1650,7 +2382,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Portmarnock" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Carrickhill" .
+                "Carrickhill" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "685.7105713"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "111.2357026"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/166pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1659,7 +2395,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Dublin 15" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Catherine's Park" .
+                "St. Catherine's Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "14906.69043"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "493.3487371"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/198pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1668,7 +2408,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Balbriggan" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Mologa's Park" .
+                "St. Mologa's Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "5039.047852"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "295.6274067"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/40pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1677,7 +2421,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Malahide Demense" .
+                "Malahide Demense" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "9939.032104"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "425.830709"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/103pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1686,7 +2434,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Hartstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Hartstown Park" .
+                "Hartstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6393.40274"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.7520501"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/135pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1695,7 +2447,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Portmarnock" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Carrickhill" .
+                "Carrickhill" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1225.385162"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "140.312276"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/167pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1704,7 +2460,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Balbriggan" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Balbriggan Town Park" .
+                "Balbriggan Town Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "7080.469727"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "344.513"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/199pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1713,7 +2473,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Balbriggan" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "St. Mologa's Park" .
+                "St. Mologa's Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "2186.452454"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "190.6333071"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/41pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1722,7 +2486,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Seabury" .
+                "Seabury" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "9921.157166"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "425.5928161"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/104pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1731,7 +2499,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Hartstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Hartstown Park" .
+                "Hartstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "7966.279083"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "368.6259967"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/136pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1740,7 +2512,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Portmarnock" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Carrickhill" .
+                "Carrickhill" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "698.1658936"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "113.1074839"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/168pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1749,7 +2525,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Swords Manor" .
+                "Swords Manor" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "10127.27866"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "419.0923469"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/10pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1758,7 +2538,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Elm Green" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Elm Green" .
+                "Elm Green" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "52398.64127"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "932.9408318"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/42pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1767,7 +2551,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Porterstown" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Porterstown Park" .
+                "Porterstown Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "8432.055328"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "367.656206"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/105pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1776,7 +2564,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Skerries" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Mourne View" .
+                "Mourne View" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6384.249695"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "327.5552953"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/137pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1785,7 +2577,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Portmarnock" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Carrickhill" .
+                "Carrickhill" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "642.3273621"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "109.9787912"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/169pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1794,7 +2590,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Swords" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Swords Manor" .
+                "Swords Manor" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "3232.910553"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "232.3220693"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/11pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1803,7 +2603,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Broomfiled" .
+                "Broomfiled" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "9651.04718"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "411.3782354"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/80pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1812,7 +2616,11 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Portmarnock" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Carrickhill Park" .
+                "Carrickhill Park" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "6332.940826"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "326.3972573"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/43pp>
         a       <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/PlayingPitch> ;
@@ -1821,4 +2629,8 @@
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasArea>
                 "Malahide" ;
         <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasName>
-                "Broomfiled" .
+                "Broomfiled" ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeArea>
+                "1985.578369"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/hasShapeLength>
+                "180.7009377"^^<http://www.w3.org/2001/XMLSchema#double> .

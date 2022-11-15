@@ -12,7 +12,7 @@
     rr:logicalTable [ rr:tableName "MobyBike_Locations"];
     rr:subjectMap [
     rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
-    rr:class ns0:BleeperBikes ;
+    rr:class ns0:MobyBikeLocation ;
     ];
 
     rr:predicateObjectMap [

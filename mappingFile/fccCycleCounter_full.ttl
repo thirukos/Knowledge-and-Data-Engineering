@@ -8,7 +8,7 @@
 @prefix ns0: <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/>.
 
 <#fccCycleCounter>
-    a rr:TriplesMap;
+    a rr:TriplesMap; 
 
     rr:logicalTable [ rr:tableName "CycleCounter"];
 

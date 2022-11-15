@@ -1,0 +1,470 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix fcc: <http://www.example.org/ont#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo2: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ex: <http://data.example.org/>.
+@prefix ns0: <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/>.
+
+<#fccCycleCounter>
+    a rr:TriplesMap; 
+
+    rr:logicalTable [ rr:tableName "CycleCounter"];
+
+    rr:subjectMap [
+    rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+    rr:class ns0:CycleCounter ;
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate ns0:hasTime;
+    rr:objectMap [ 
+    rr:column "TIME";
+    rr:datatype xsd:integer;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate ns0:hasCastleknock;
+    rr:objectMap [ 
+    rr:column "CASTLEKNOCK_TOTEM";
+    rr:datatype xsd:integer;
+    ];  
+    ];
+    rr:predicateObjectMap [
+    rr:predicate ns0:hasCoastRoad;
+    rr:objectMap [ 
+    rr:column "COAST_ROAD_TOTEM";
+    rr:datatype xsd:integer;
+    ];  
+    ];
+    rr:predicateObjectMap [
+    rr:predicate ns0:hasMortonStadium;
+    rr:objectMap [ 
+    rr:column "MORTON_STADIUM_SWORDS";
+    rr:datatype xsd:integer;
+    ];  
+    ];
+    .
+
+
+<#fccRecreationalFacilities>
+    a rr:TriplesMap;
+    rr:logicalTable [ rr:tableName "Recreation_Facilities_Audit_2021_FCC"];
+ rr:subjectMap [
+  rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+  rr:class ns0:RecreationFacilities ;
+ ] ;
+
+ rr:predicateObjectMap [
+  rr:predicate ns0:hasName ;
+  rr:objectMap [
+   rr:column "FACILITY_NAME" ;
+  ] ; 
+ ] ;
+
+ rr:predicateObjectMap [
+  rr:predicate ns0:hasLatitude;
+  rr:objectMap [
+   rr:column "LATITUDE";
+   rr:datatype xsd:double;
+  ];
+ ];
+
+ rr:predicateObjectMap [
+      rr:predicate ns0:hasLongtitude;
+      rr:objectMap [
+          rr:column "LONGITUDE";
+       rr:datatype xsd:double;
+      ];
+     ];
+
+ rr:predicateObjectMap [
+ rr:predicate ns0:hasFee;
+ rr:objectMap [ 
+  rr:column "FEE";
+  rr:termType rr:Literal;
+  ];  
+ ];
+
+
+ rr:predicateObjectMap [
+ rr:predicate ns0:hasArea;
+ rr:objectMap [ 
+  rr:column "AREA";
+  rr:termType rr:Literal;
+  ];  
+ ];
+
+rr:predicateObjectMap [
+ rr:predicate ns0:hasActivityType;
+ rr:objectMap [ 
+  rr:column "ACTIVITY_TYPE";
+  rr:termType rr:Literal;
+  ];  
+ ];
+
+
+    rr:predicateObjectMap[
+    rr:predicate ns0:hasSportType;
+    rr:objectMap [
+        rr:column "ANALYSIS";
+        rr:termType rr:Literal;
+    ];
+    ];
+    rr:predicateObjectMap[
+    rr:predicate ns0:hasActivityDescription;
+    rr:objectMap [
+        rr:column "ACTIVITY_DESCRIPTION";
+        rr:termType rr:Literal;
+    ];
+    ];
+
+    rr:predicateObjectMap[
+    rr:predicate ns0:haschain;
+    rr:objectMap [
+        rr:column "CHAIN";
+        rr:termType rr:Literal;
+    ];
+    ];
+
+ rr:predicateObjectMap[
+    rr:predicate ns0:hasOpening;
+    rr:objectMap [
+        rr:column "OPEN_TIME";
+        rr:termType rr:Literal;
+    ];
+    ];
+
+rr:predicateObjectMap[
+    rr:predicate ns0:hasAccessiblity;
+    rr:objectMap [
+        rr:column "ACCESSIBILITYT";
+        rr:termType rr:Literal;
+    ];
+    ];
+
+    rr:predicateObjectMap[
+    rr:predicate ns0:hasAccess;
+    rr:objectMap [
+        rr:column "ACCESS";
+        rr:termType rr:Literal;
+    ];
+    ];
+    .
+
+
+<#fccBleeperBikes>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "Bleeper_Bikes_Parking_Map_FCC"];
+
+    rr:subjectMap [
+    rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+    rr:class ns0:BleeperBikes ;
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate ns0:hasName;
+    rr:objectMap [ 
+    rr:column "LOCATION";
+    rr:termType rr:Literal;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate ns0:hasLatitude;
+    rr:objectMap [
+    rr:column "LATITUDE";
+    rr:datatype xsd:double;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate ns0:hasLongtitude;
+    rr:objectMap [
+    rr:column "LONGITUDE";
+    rr:datatype xsd:double;
+    ];
+    ];
+    .
+
+
+<#fccAccessibleParking>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "Accessible_Parking_Pay_FCC"];
+
+    rr:subjectMap [
+		rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+		rr:class ns0:AccessibleParking ;
+    ];
+
+
+rr:predicateObjectMap [
+  rr:predicate ns0:hasLatitude;
+  rr:objectMap [
+   rr:column "LATITUDE";
+   rr:datatype xsd:double;
+  ];
+ ];
+
+ rr:predicateObjectMap [
+      rr:predicate ns0:hasLongtitude;
+      rr:objectMap [
+          rr:column "LONGITUDE";
+       rr:datatype xsd:double;
+      ];
+     ];
+
+   rr:predicateObjectMap [
+	rr:predicate ns0:hasArea;
+	rr:objectMap [ rr:column "AREA" ];
+    ] ;
+    .
+
+
+<#fccBikeStand>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "BikeStand"];
+
+    rr:subjectMap [
+		rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+		rr:class ns0:BikeStand ;
+    ];
+
+rr:predicateObjectMap [
+  rr:predicate ns0:hasLatitude;
+  rr:objectMap [
+   rr:column "LATITUDE";
+   rr:datatype xsd:double;
+  ];
+ ];
+
+rr:predicateObjectMap [
+ rr:predicate ns0:hasName;
+ rr:objectMap [ 
+  rr:column "LOCATION";
+  rr:termType rr:Literal;
+  ];  
+ ];
+
+ rr:predicateObjectMap [
+      rr:predicate ns0:hasLongtitude;
+      rr:objectMap [
+          rr:column "LONGITUDE";
+       rr:datatype xsd:double;
+      ];
+     ];
+
+
+   rr:predicateObjectMap [
+	rr:predicate ns0:hasArea;
+	rr:objectMap [ rr:column "AREA" ];
+    ] ;
+
+rr:predicateObjectMap [
+  rr:predicate ns0:extendInfo ;
+  rr:objectMap [
+   rr:parentTriplesMap <#fccPubParkingPlayGround>;
+   rr:joinCondition [ rr:child "AREA" ; rr:parent "ADDRESS1" ]
+  ]
+ ] ;
+    
+    .
+
+
+<#fccGreenSchool>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "Green_Schools_Data_FCC"];
+
+    rr:subjectMap [
+		rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+		rr:class ns0:GreenSchool ;
+    ];
+
+rr:predicateObjectMap [
+  rr:predicate ns0:hasName;
+  rr:objectMap [
+   rr:column "NAME_OF_SCHOOL";
+   rr:termType rr:Literal;
+  ];
+ ];
+
+   rr:predicateObjectMap [
+	rr:predicate ns0:hasArea;
+	rr:objectMap [ rr:column "AREA" ];
+    ] ;
+
+   rr:predicateObjectMap [
+  rr:predicate ns0:nearBy ;
+  rr:objectMap [
+   rr:parentTriplesMap <#fccRecreationalFacilities> ;
+   rr:joinCondition [ rr:child "AREA" ; rr:parent "AREA" ]
+  ]
+ ] ;
+    .
+
+
+
+<#fccPlayingPitch>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "Playing_Pitches_FCC"];
+
+    rr:subjectMap [
+		rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+		rr:class ns0:PlayingPitch ;
+    ];
+
+rr:predicateObjectMap [
+ rr:predicate ns0:hasName;
+ rr:objectMap [ 
+  rr:column "FACILITY_NAME";
+  rr:termType rr:Literal;
+  ];  
+ ];
+
+rr:predicateObjectMap [
+ rr:predicate ns0:hasShapeArea;
+ rr:objectMap [ 
+  rr:column "SHAPE_AREA";
+ rr:datatype xsd:double;
+  ];  
+ ];
+rr:predicateObjectMap [
+ rr:predicate ns0:hasShapeLength;
+ rr:objectMap [ 
+  rr:column "SHAPE_LENGTH";
+ rr:datatype xsd:double;
+  ];  
+ ];
+
+rr:predicateObjectMap [
+ rr:predicate ns0:hasArea;
+ rr:objectMap [ 
+  rr:column "LOCATION";
+  rr:termType rr:Literal;
+  ];  
+ ];
+
+
+rr:predicateObjectMap [
+ rr:predicate ns0:hasActivityType;
+ rr:objectMap [ 
+  rr:column "FACILITY_TYPE";
+  rr:termType rr:Literal;
+  ];  
+ ];
+
+ rr:predicateObjectMap [
+  rr:predicate ns0:sameActivityTypeWithPC ;
+  rr:objectMap [
+   rr:parentTriplesMap <#fccRecreationalFacilities> ;
+   rr:joinCondition [ rr:child "FACILITY_TYPE" ; rr:parent "ACTIVITY_TYPE" ]
+  ]
+ ] ;
+    .
+
+
+<#fccMobyBikeLocation>
+    a rr:TriplesMap;
+    rr:logicalTable [ rr:tableName "MobyBike_Locations"];
+    rr:subjectMap [
+    rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+    rr:class ns0:MobyBikeLocation ;
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate ns0:hasLatitude;
+    rr:objectMap [
+    rr:column "LATITUDE";
+    rr:datatype xsd:double;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate ns0:hasLongtitude;
+    rr:objectMap [
+    rr:column "LONGITUDE";
+    rr:datatype xsd:double;
+    ];
+    ];
+
+ 
+    .
+<#fccPubParkingPlayGround>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "Public_Parks_Play_Grounds_FCC"];
+
+    rr:subjectMap [
+		rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+		rr:class ns0:PubParkingPlayGround ;
+    ];
+
+rr:predicateObjectMap [
+  rr:predicate ns0:hasName;
+  rr:objectMap [
+   rr:column "NAME";
+   rr:termType rr:Literal;
+  ];
+ ];
+
+   rr:predicateObjectMap [
+	rr:predicate ns0:hasArea;
+	rr:objectMap [ rr:column "ADDRESS1";
+        rr:termType rr:Literal; ];
+    ] ;
+
+rr:predicateObjectMap [
+  rr:predicate ns0:hasTennis;
+  rr:objectMap [
+   rr:column "TENNIS";
+   rr:termType rr:Literal;
+  ];
+ ];
+
+rr:predicateObjectMap [
+  rr:predicate ns0:hasHeritageVenue;
+  rr:objectMap [
+   rr:column "HERITAGE_VENUE";
+   rr:termType rr:Literal;
+  ];
+ ];
+
+rr:predicateObjectMap [
+  rr:predicate ns0:hasCafe;
+  rr:objectMap [
+   rr:column "CAFE";
+   rr:termType rr:Literal;
+  ];
+ ];
+
+rr:predicateObjectMap [
+  rr:predicate ns0:hasBicycleParking;
+  rr:objectMap [
+   rr:column "BICYCLE_PARKING";
+   rr:termType rr:Literal;
+  ];
+ ];
+rr:predicateObjectMap [
+  rr:predicate ns0:hasParking;
+  rr:objectMap [
+   rr:column "PARKING";
+   rr:termType rr:Literal;
+  ];
+ ];
+    rr:predicateObjectMap [
+  rr:predicate ns0:hasToilets;
+  rr:objectMap [
+   rr:column "TOILETS";
+   rr:termType rr:Literal;
+  ];
+ ];
+
+    .
+
