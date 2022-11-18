@@ -80,6 +80,14 @@
       ];
      ];
 
+rr:predicateObjectMap [
+		rr:predicate ns0:asWKT ;
+		rr:objectMap [
+			rr:template "POINT({LONGITUDE} {LATITUDE})" ;
+			rr:datatype geo:wktLiteral ;
+		] ; 
+	] ;
+
  rr:predicateObjectMap [
  rr:predicate ns0:hasFee;
  rr:objectMap [ 
@@ -259,6 +267,13 @@ rr:predicateObjectMap [
       ];
      ];
 
+rr:predicateObjectMap [
+		rr:predicate ns0:asWKT ;
+		rr:objectMap [
+			rr:template "POINT({LONGITUDE} {LATITUDE})" ;
+			rr:datatype geo:wktLiteral ;
+		] ; 
+	] ;
 
    rr:predicateObjectMap [
 	rr:predicate ns0:hasArea;
@@ -393,6 +408,15 @@ rr:predicateObjectMap [
     rr:datatype xsd:double;
     ];
     ];
+
+rr:predicateObjectMap [
+		rr:predicate ns0:asWKT ;
+		rr:objectMap [
+			rr:template "POINT({LONGITUDE} {LATITUDE})" ;
+			rr:datatype geo:wktLiteral ;
+		] ; 
+	] ;
+
 
  
     .
