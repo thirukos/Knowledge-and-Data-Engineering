@@ -1,0 +1,2 @@
+23:00:59.718 [AWT-EventQueue-0] WARN  org.apache.jena.arq.exec - URI <http://www.ontotext.com/owlim/geo#distance> has no registered function factory
+23:01:19.723 [AWT-EventQueue-0] WARN  org.apache.jena.arq.exec - URI <http://www.ontotext.com/owlim/geo#distance> has no registered function factory
