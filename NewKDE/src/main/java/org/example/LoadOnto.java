@@ -152,7 +152,7 @@ public class LoadOnto {
                         "PREFIX ns0: <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/>\n" +
                         "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>\n" +
                         "PREFIX omgeo:<http://www.ontotext.com/owlim/geo#>\n" +
-                        "SELECT ?x ?name\n" +
+                        "SELECT distinct ?x ?name\n" +
                         "WHERE { {\n" +
                         "?x a ns0:RecreationFacilities.\n" +
                         "?x ns0:hasSportType ?sportType.\n" +
@@ -255,7 +255,7 @@ public class LoadOnto {
                         "PREFIX ns0: <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/>\n" +
                         "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>\n" +
                         "\n" +
-                        "SELECT ?time ?count\n" +
+                        "SELECT ?time\n" +
                         "WHERE {\n" +
                         "    ?x a ns0:CycleCounter.\n" +
                         " ?x ns0:hasTime ?time.\n" +

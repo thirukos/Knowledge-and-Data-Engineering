@@ -5,7 +5,7 @@
 @prefix geo2: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix ex: <http://data.example.org/>.
-@prefix ns0: <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/>.
+@prefix ns0: <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#>.
 
 <#fccCycleCounter>
     a rr:TriplesMap; 
@@ -13,7 +13,7 @@
     rr:logicalTable [ rr:tableName "CycleCounter"];
 
     rr:subjectMap [
-    rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+    rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#{ID}" ;
     rr:class ns0:CycleCounter ;
     ];
     
@@ -53,7 +53,7 @@
     a rr:TriplesMap;
     rr:logicalTable [ rr:tableName "Recreation_Facilities_Audit_2021_FCC"];
  rr:subjectMap [
-  rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+  rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#{ID}" ;
   rr:class ns0:RecreationFacilities ;
  ] ;
 
@@ -169,7 +169,7 @@ rr:predicateObjectMap[
     rr:logicalTable [ rr:tableName "Bleeper_Bikes_Parking_Map_FCC"];
 
     rr:subjectMap [
-    rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+    rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#{ID}" ;
     rr:class ns0:BleeperBikes ;
     ];
     
@@ -205,7 +205,7 @@ rr:predicateObjectMap[
     rr:logicalTable [ rr:tableName "Accessible_Parking_Pay_FCC"];
 
     rr:subjectMap [
-		rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+		rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#{ID}" ;
 		rr:class ns0:AccessibleParking ;
     ];
 
@@ -239,7 +239,7 @@ rr:predicateObjectMap [
     rr:logicalTable [ rr:tableName "BikeStand"];
 
     rr:subjectMap [
-		rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+		rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#{ID}" ;
 		rr:class ns0:BikeStand ;
     ];
 
@@ -297,7 +297,7 @@ rr:predicateObjectMap [
     rr:logicalTable [ rr:tableName "Green_Schools_Data_FCC"];
 
     rr:subjectMap [
-		rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+		rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#{ID}" ;
 		rr:class ns0:GreenSchool ;
     ];
 
@@ -331,7 +331,7 @@ rr:predicateObjectMap [
     rr:logicalTable [ rr:tableName "Playing_Pitches_FCC"];
 
     rr:subjectMap [
-		rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+		rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#{ID}" ;
 		rr:class ns0:PlayingPitch ;
     ];
 
@@ -389,7 +389,7 @@ rr:predicateObjectMap [
     a rr:TriplesMap;
     rr:logicalTable [ rr:tableName "MobyBike_Locations"];
     rr:subjectMap [
-    rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+    rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#{ID}" ;
     rr:class ns0:MobyBikeLocation ;
     ];
 
@@ -426,7 +426,7 @@ rr:predicateObjectMap [
     rr:logicalTable [ rr:tableName "Public_Parks_Play_Grounds_FCC"];
 
     rr:subjectMap [
-		rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2/{ID}" ;
+		rr:template "http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#{ID}" ;
 		rr:class ns0:PubParkingPlayGround ;
     ];
 

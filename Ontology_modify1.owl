@@ -1,0 +1,521 @@
+@prefix : <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2> .
+
+<http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#ExtendInfo
+:ExtendInfo rdf:type owl:ObjectProperty ;
+            rdfs:subPropertyOf owl:topObjectProperty ;
+            rdfs:domain :PubParkPlayGround ;
+            rdfs:range :BikeStand .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#InterNearBy
+:InterNearBy rdf:type owl:ObjectProperty ;
+             rdfs:subPropertyOf owl:topObjectProperty ;
+             rdfs:domain :StudyorEnterLocation ;
+             rdfs:range :StudyorEnterLocation .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#NearByReFaGS
+:NearByReFaGS rdf:type owl:ObjectProperty ;
+              rdfs:domain :Greenschool ;
+              rdfs:range :RecreationFacillity .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#NearByReFaMB
+:NearByReFaMB rdf:type owl:ObjectProperty ;
+              rdfs:domain :MobyBike ;
+              rdfs:range :RecreationFacillity .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#NextTo
+:NextTo rdf:type owl:ObjectProperty ;
+        rdfs:subPropertyOf owl:topObjectProperty ;
+        rdfs:domain :BikeStand ;
+        rdfs:range :RecreationFacillity .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#Record
+:Record rdf:type owl:ObjectProperty ;
+        rdfs:subPropertyOf owl:topObjectProperty ;
+        rdfs:domain :CycleCounter ;
+        rdfs:range :RecreationFacillity .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#Rent
+:Rent rdf:type owl:ObjectProperty ;
+      rdfs:subPropertyOf owl:topObjectProperty ;
+      rdfs:domain :Person ;
+      rdfs:range :MobyBike .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#SearchBP
+:SearchBP rdf:type owl:ObjectProperty ;
+          rdfs:subPropertyOf owl:topObjectProperty ;
+          rdfs:domain :Person ;
+          rdfs:range :BikeParkingPlace .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#SearchSL
+:SearchSL rdf:type owl:ObjectProperty ;
+          rdfs:subPropertyOf owl:topObjectProperty ;
+          rdfs:domain :Person ;
+          rdfs:range :StudyorEnterLocation .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#Study_in
+:Study_in rdf:type owl:ObjectProperty ;
+          rdfs:subPropertyOf owl:topObjectProperty ;
+          rdfs:domain :Student ;
+          rdfs:range :Greenschool .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#SubClassOf
+:SubClassOf rdf:type owl:ObjectProperty ;
+            rdfs:subPropertyOf owl:topObjectProperty ;
+            rdf:type owl:FunctionalProperty ;
+            rdfs:domain :BikeParkingPlace ,
+                        :Person ,
+                        :StudyorEnterLocation ;
+            rdfs:range :AccessibleParking ,
+                       :BikeStand ,
+                       :BleeperBikesParking ,
+                       :Greenschool ,
+                       :PlayingPitches ,
+                       :PubParkPlayGround ,
+                       :RecreationFacillity ,
+                       :Student .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasAHertiage
+:hasAHertiage rdf:type owl:ObjectProperty ;
+              rdfs:subPropertyOf owl:topObjectProperty ;
+              rdfs:domain :PubParkPlayGround ;
+              rdfs:range :RecreationFacillity .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasAWebsite
+:hasAWebsite rdf:type owl:ObjectProperty ;
+             rdfs:subPropertyOf owl:topObjectProperty ;
+             rdfs:domain :PubParkPlayGround ,
+                         :RecreationFacillity ;
+             rdfs:range :RecreationFacillity .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#sameActivityTypeWithPC
+:sameActivityTypeWithPC rdf:type owl:ObjectProperty ;
+                        rdfs:subPropertyOf owl:topObjectProperty ;
+                        rdfs:domain :RecreationFacillity ;
+                        rdfs:range :PlayingPitches .
+
+
+###  http://www.w3.org/2002/07/owl#topObjectProperty
+owl:topObjectProperty rdfs:subPropertyOf owl:topObjectProperty ;
+                      rdfs:domain :Person ;
+                      rdfs:range :Greenschool .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasAccess
+:hasAccess rdf:type owl:DatatypeProperty ;
+           rdfs:subPropertyOf owl:topDataProperty ;
+           rdfs:domain :RecreationFacillity ;
+           rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasAccessiblity
+:hasAccessiblity rdf:type owl:DatatypeProperty ;
+                 rdfs:subPropertyOf owl:topDataProperty ;
+                 rdfs:domain :RecreationFacillity ;
+                 rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasActIvityDescription
+:hasActIvityDescription rdf:type owl:DatatypeProperty ;
+                        rdfs:subPropertyOf owl:topDataProperty ;
+                        rdfs:domain :RecreationFacillity ;
+                        rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasActivityType
+:hasActivityType rdf:type owl:DatatypeProperty ;
+                 rdfs:subPropertyOf owl:topDataProperty ;
+                 rdfs:domain :RecreationFacillity ;
+                 rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasArea
+:hasArea rdf:type owl:DatatypeProperty ;
+         rdfs:subPropertyOf owl:topDataProperty ;
+         rdf:type owl:FunctionalProperty ;
+         rdfs:domain :AccessibleParking ,
+                     :BikeStand ,
+                     :Greenschool ,
+                     :PubParkPlayGround ,
+                     :RecreationFacillity ;
+         rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasBicycleParking
+:hasBicycleParking rdf:type owl:DatatypeProperty ;
+                   rdfs:subPropertyOf owl:topDataProperty ;
+                   rdfs:domain :PubParkPlayGround ;
+                   rdfs:range xsd:boolean .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasCafe
+:hasCafe rdf:type owl:DatatypeProperty ;
+         rdfs:subPropertyOf owl:topDataProperty ;
+         rdfs:domain :PubParkPlayGround ;
+         rdfs:range xsd:boolean .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasCastleknock
+:hasCastleknock rdf:type owl:DatatypeProperty ;
+                rdfs:subPropertyOf owl:topDataProperty ;
+                rdfs:domain :CycleCounter ;
+                rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasChain
+:hasChain rdf:type owl:DatatypeProperty ;
+          rdfs:subPropertyOf owl:topDataProperty ;
+          rdfs:domain :RecreationFacillity ;
+          rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasCoastRoad
+:hasCoastRoad rdf:type owl:DatatypeProperty ;
+              rdfs:subPropertyOf owl:topDataProperty ;
+              rdfs:domain :CycleCounter ;
+              rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasDisability
+:hasDisability rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf owl:topDataProperty ;
+               rdfs:domain :Person ;
+               rdfs:range xsd:boolean .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasFee
+:hasFee rdf:type owl:DatatypeProperty ;
+        rdfs:subPropertyOf owl:topDataProperty ;
+        rdfs:domain :RecreationFacillity ;
+        rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasGreenSchoolName
+:hasGreenSchoolName rdf:type owl:DatatypeProperty ;
+                    rdfs:subPropertyOf owl:topDataProperty ;
+                    rdfs:domain :Greenschool ;
+                    rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasHertiageVenue
+:hasHertiageVenue rdf:type owl:DatatypeProperty ;
+                  rdfs:subPropertyOf owl:topDataProperty ;
+                  rdfs:domain :PubParkPlayGround ;
+                  rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasID
+:hasID rdf:type owl:DatatypeProperty ;
+       rdfs:subPropertyOf owl:topDataProperty ;
+       rdf:type owl:FunctionalProperty ;
+       rdfs:domain :BikeStand ,
+                   :BleeperBikesParking ,
+                   :Greenschool ,
+                   :MobyBike ,
+                   :PlayingPitches ;
+       rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasLatitude
+:hasLatitude rdf:type owl:DatatypeProperty ;
+             rdfs:subPropertyOf owl:topDataProperty ;
+             rdf:type owl:FunctionalProperty ;
+             rdfs:domain :AccessibleParking ,
+                         :BikeStand ,
+                         :BleeperBikesParking ,
+                         :MobyBike ,
+                         :RecreationFacillity ;
+             rdfs:range xsd:double .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasLocation
+:hasLocation rdf:type owl:DatatypeProperty ;
+             rdfs:subPropertyOf owl:topDataProperty ;
+             rdf:type owl:FunctionalProperty ;
+             rdfs:domain :BikeParkingPlace ,
+                         :Greenschool ,
+                         :PlayingPitches ;
+             rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasLongitude
+:hasLongitude rdf:type owl:DatatypeProperty ;
+              rdfs:subPropertyOf owl:topDataProperty ;
+              rdf:type owl:FunctionalProperty ;
+              rdfs:domain :AccessibleParking ,
+                          :BikeStand ,
+                          :BleeperBikesParking ,
+                          :MobyBike ,
+                          :RecreationFacillity ;
+              rdfs:range xsd:double .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasMembership
+:hasMembership rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf owl:topDataProperty ;
+               rdfs:domain :Person ;
+               rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasMortonStadium
+:hasMortonStadium rdf:type owl:DatatypeProperty ;
+                  rdfs:subPropertyOf owl:topDataProperty ;
+                  rdfs:domain :CycleCounter ;
+                  rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasName
+:hasName rdf:type owl:DatatypeProperty ;
+         rdfs:subPropertyOf owl:topDataProperty ;
+         rdf:type owl:FunctionalProperty ;
+         rdfs:domain :Person ,
+                     :StudyorEnterLocation ;
+         rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasOpening
+:hasOpening rdf:type owl:DatatypeProperty ;
+            rdfs:subPropertyOf owl:topDataProperty ;
+            rdfs:domain :RecreationFacillity ;
+            rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasParking
+:hasParking rdf:type owl:DatatypeProperty ;
+            rdfs:subPropertyOf owl:topDataProperty ;
+            rdfs:domain :PubParkPlayGround ;
+            rdfs:range xsd:boolean .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasSchoolName
+:hasSchoolName rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf owl:topDataProperty ;
+               rdfs:domain :Student ;
+               rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasSportsType
+:hasSportsType rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf owl:topDataProperty ;
+               rdfs:domain :RecreationFacillity ;
+               rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasTennis
+:hasTennis rdf:type owl:DatatypeProperty ;
+           rdfs:subPropertyOf owl:topDataProperty ;
+           rdfs:domain :PubParkPlayGround ;
+           rdfs:range xsd:boolean .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasTime
+:hasTime rdf:type owl:DatatypeProperty ;
+         rdfs:subPropertyOf owl:topDataProperty ;
+         rdfs:domain :CycleCounter ;
+         rdfs:range xsd:dateTimeStamp .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasToilets
+:hasToilets rdf:type owl:DatatypeProperty ;
+            rdfs:subPropertyOf owl:topDataProperty ;
+            rdfs:domain :PubParkPlayGround ;
+            rdfs:range xsd:boolean .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#hasWebsite
+:hasWebsite rdf:type owl:DatatypeProperty ;
+            rdfs:subPropertyOf owl:topDataProperty ;
+            rdf:type owl:FunctionalProperty ;
+            rdfs:domain :PubParkPlayGround ;
+            rdfs:range xsd:string .
+
+
+###  http://www.w3.org/2002/07/owl#topDataProperty
+owl:topDataProperty rdfs:domain :BikeStand ,
+                                :BleeperBikesParking ,
+                                :Greenschool ,
+                                :PlayingPitches ;
+                    rdfs:range xsd:integer .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#AccessibleParking
+:AccessibleParking rdf:type owl:Class ;
+                   rdfs:subClassOf :StudyorEnterLocation .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#BikeParkingPlace
+:BikeParkingPlace rdf:type owl:Class ;
+                  owl:equivalentClass [ rdf:type owl:Restriction ;
+                                        owl:onProperty :InterNearBy ;
+                                        owl:minCardinality "1"^^xsd:nonNegativeInteger
+                                      ] .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#BikeStand
+:BikeStand rdf:type owl:Class ;
+           owl:equivalentClass [ rdf:type owl:Restriction ;
+                                 owl:onProperty :ExtendInfo ;
+                                 owl:minCardinality "1"^^xsd:nonNegativeInteger
+                               ] ,
+                               [ rdf:type owl:Restriction ;
+                                 owl:onProperty :NextTo ;
+                                 owl:minCardinality "1"^^xsd:nonNegativeInteger
+                               ] ,
+                               [ rdf:type owl:Restriction ;
+                                 owl:onProperty :ExtendInfo ;
+                                 owl:maxCardinality "1"^^xsd:nonNegativeInteger
+                               ] ;
+           rdfs:subClassOf :BikeParkingPlace ;
+           owl:disjointWith :BleeperBikesParking .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#BleeperBikesParking
+:BleeperBikesParking rdf:type owl:Class ;
+                     rdfs:subClassOf :BikeParkingPlace .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#CycleCounter
+:CycleCounter rdf:type owl:Class ;
+              owl:equivalentClass [ rdf:type owl:Restriction ;
+                                    owl:onProperty :NearByReFaMB ;
+                                    owl:minCardinality "1"^^xsd:nonNegativeInteger
+                                  ] ,
+                                  [ rdf:type owl:Restriction ;
+                                    owl:onProperty :Record ;
+                                    owl:maxCardinality "1"^^xsd:nonNegativeInteger
+                                  ] .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#Greenschool
+:Greenschool rdf:type owl:Class ;
+             owl:equivalentClass [ rdf:type owl:Restriction ;
+                                   owl:onProperty :NearByReFaGS ;
+                                   owl:minCardinality "1"^^xsd:nonNegativeInteger
+                                 ] ;
+             rdfs:subClassOf :StudyorEnterLocation .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#MobyBike
+:MobyBike rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#Person
+:Person rdf:type owl:Class ;
+        owl:equivalentClass [ rdf:type owl:Restriction ;
+                              owl:onProperty :Rent ;
+                              owl:maxCardinality "1"^^xsd:nonNegativeInteger
+                            ] .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#PlayingPitches
+:PlayingPitches rdf:type owl:Class ;
+                rdfs:subClassOf :StudyorEnterLocation .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#PubParkPlayGround
+:PubParkPlayGround rdf:type owl:Class ;
+                   owl:equivalentClass [ rdf:type owl:Restriction ;
+                                         owl:onProperty :hasAHertiage ;
+                                         owl:minCardinality "0"^^xsd:nonNegativeInteger
+                                       ] ,
+                                       [ rdf:type owl:Restriction ;
+                                         owl:onProperty :hasAHertiage ;
+                                         owl:maxCardinality "1"^^xsd:nonNegativeInteger
+                                       ] ,
+                                       [ rdf:type owl:Restriction ;
+                                         owl:onProperty :sameActivityTypeWithPC ;
+                                         owl:maxCardinality "1"^^xsd:nonNegativeInteger
+                                       ] ;
+                   rdfs:subClassOf :StudyorEnterLocation .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#RecreationFacillity
+:RecreationFacillity rdf:type owl:Class ;
+                     owl:equivalentClass [ rdf:type owl:Restriction ;
+                                           owl:onProperty :sameActivityTypeWithPC ;
+                                           owl:maxCardinality "1"^^xsd:nonNegativeInteger
+                                         ] ;
+                     rdfs:subClassOf :StudyorEnterLocation .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#Student
+:Student rdf:type owl:Class ;
+         owl:equivalentClass [ rdf:type owl:Restriction ;
+                               owl:onProperty :Study_in ;
+                               owl:minCardinality "1"^^xsd:nonNegativeInteger
+                             ] ;
+         rdfs:subClassOf :Person .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#StudyorEnterLocation
+:StudyorEnterLocation rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#ArdgillanCommunityCollege
+:ArdgillanCommunityCollege rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/26690/ontologies/2022/10/untitled-ontology-2#_Name_of_School
+:_Name_of_School rdf:type owl:NamedIndividual .
+
+
+#################################################################
+#    General axioms
+#################################################################
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :AccessibleParking
+                :Greenschool
+                :PlayingPitches
+                :RecreationFacillity
+              )
+] .
+
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :BikeParkingPlace
+                :CycleCounter
+                :MobyBike
+                :Person
+                :StudyorEnterLocation
+              )
+] .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
